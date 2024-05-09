@@ -1,43 +1,42 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
 <!-- Correo electrónico: danielperezdev@proton.me  -->
+# **Visual Studio Code Configuration**
 
-# ***Configuración de Visual Studio Code***
+*This repository provides a step-by-step guide to configure Visual Studio Code according to your needs.*
 
-*Este repositorio proporciona una guía paso a paso para configurar Visual Studio Code según tus necesidades.*
+## **Installation of Visual Studio Code**
 
-## ***Instalación de Visual Studio Code***
+1. **Download:** *Download and install Visual Studio Code from the [official website](https://code.visualstudio.com/).*
 
-1. **Descarga:** *Descarga e instala Visual Studio Code desde el [sitio web oficial](https://code.visualstudio.com/).*
+2. **Extensions:** *Explore the available extensions in Visual Studio Code and download those that are useful for your workflow. You can find extensions for different programming languages, themes, productivity tools, and more.*
 
-2. **Extensiones:** *Explora las extensiones disponibles en Visual Studio Code y descarga aquellas que sean útiles para tu flujo de trabajo. Puedes encontrar extensiones para diferentes lenguajes de programación, temas, herramientas de productividad y más.*
+## **Basic Configuration**
 
-## ***Configuración Básica***
+1. **Theme:** *Select a theme that feels comfortable and pleasant to work with. You can choose from pre-installed themes or install one from the extension marketplace.*
 
-1. **Tema:** *Selecciona un tema que te resulte cómodo y agradable para trabajar. Puedes elegir entre los temas preinstalados o instalar uno desde la tienda de extensiones.*
+2. **Keyboard Shortcuts:** *Customize keyboard shortcuts according to your preferences and work habits. You can modify existing shortcuts or create new ones using the keyboard shortcuts manager.*
 
-2. **Atajos de Teclado:** *Personaliza los atajos de teclado según tus preferencias y hábitos de trabajo. Puedes modificar los atajos existentes o crear nuevos atajos utilizando el administrador de atajos de teclado.*
+3. **Editor Settings:** *Configure editor preferences such as font size, indentation, margins, etc., according to your needs and personal preferences.*
 
-3. **Ajustes de Editor:** *Configura las preferencias del editor, como el tamaño de la fuente, el espacio de sangría, los márgenes, etc., según tus necesidades y preferencias personales.*
+## **Advanced Configuration**
 
-## ***Configuración Avanzada***
+1. **Language Configuration:** *Install and configure specific extensions for the programming languages you frequently use. These extensions can provide additional features such as advanced syntax highlighting, code completion, refactoring, and more.*
 
-1. **Configuración de Lenguaje:** *Instala y configura extensiones específicas para los lenguajes de programación que utilices con frecuencia. Estas extensiones pueden proporcionar características adicionales, como resaltado de sintaxis avanzado, completado de código, refactorización y más.*
+2. **Integration with External Tools:** *Integrate Visual Studio Code with external tools such as version control systems (Git), debuggers, integrated terminals, etc., to enhance your workflow and productivity.*
 
-2. **Integración con Herramientas Externas:** *Integra Visual Studio Code con herramientas externas, como sistemas de control de versiones (Git), depuradores, terminales integradas, etc., para mejorar tu flujo de trabajo y productividad.*
+## **Additional Customization**
 
-## ***Personalización Adicional***
+1. **Snippets:** *Create and customize your own snippets to insert common code snippets quickly and efficiently.*
 
-1. **Snippets:** *Crea y personaliza tus propios snippets para insertar fragmentos de código comunes de manera rápida y eficiente.*
+2. **Commands:** *Customize the available commands in Visual Studio Code to tailor the interface to your specific needs.*
 
-2. **Comandos:** *Personaliza los comandos disponibles en Visual Studio Code para adaptar la interfaz a tus necesidades específicas.*
+3. **Automated Tasks:** *Set up automated tasks such as compilation, testing, static analysis, etc., to improve your workflow and automate repetitive tasks.*
 
-3. **Tareas Automatizadas:** *Configura tareas automatizadas, como compilación, pruebas, análisis estático, etc., para mejorar tu flujo de trabajo y automatizar tareas repetitivas.*
+## **Contributions**
 
-## ***Contribuciones***
+*Contributions are welcome! If you have suggestions, corrections, or improvements for this guide, feel free to open an issue or submit a pull request.*
 
-*¡Las contribuciones son bienvenidas! Si tienes sugerencias, correcciones o mejoras para esta guía, siéntete libre de abrir un problema o enviar una solicitud de extracción.*
+## **License**
 
-## ***Licencia***
-
-*Este repositorio está bajo la Licencia [MIT](LICENSE).*
+*This repository is under the [MIT License](LICENSE).*
