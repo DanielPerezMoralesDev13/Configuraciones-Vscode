@@ -38,6 +38,6 @@
 
 *¡Las contribuciones son bienvenidas! Si tienes sugerencias, correcciones o mejoras para esta guía, siéntete libre de abrir un problema o enviar una solicitud de extracción.*
 
-## ***Licencia***
+## **Licencia**
 
-*Este repositorio está bajo la Licencia [MIT](LICENSE).*
+> Este repositorio se publica bajo la Licencia MIT. Siéntete libre de utilizar, modificar y distribuir el contenido de acuerdo con los términos de esta licencia.
