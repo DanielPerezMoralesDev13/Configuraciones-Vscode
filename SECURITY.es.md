@@ -30,11 +30,3 @@
 ## ***Seguridad del Código***
 
 *Nuestro equipo se esfuerza por mantener altos estándares de seguridad en nuestro código. Utilizamos las mejores prácticas de desarrollo seguro y llevamos a cabo revisiones de código regulares para identificar y corregir posibles problemas de seguridad. Si encuentras algún problema de seguridad en nuestro código, no dudes en informarnos siguiendo las pautas mencionadas anteriormente.*
-
-## **Contribuciones**
-
-> ¡Se aceptan contribuciones! Si tienes sugerencias, correcciones o deseas agregar contenido adicional a este repositorio, no dudes en abrir un problema o enviar una solicitud de extracción. Tu ayuda es fundamental para hacer de este repositorio una referencia completa y actualizada para la comunidad de desarrollo.
-
-## **Licencia**
-
-> Este repositorio se publica bajo la Licencia MIT. Siéntete libre de utilizar, modificar y distribuir el contenido de acuerdo con los términos de esta licencia.
