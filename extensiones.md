@@ -1186,12 +1186,12 @@ ms-dotnettools.csharp
 
 ---
 
-**Name:** .*NET Install Tool*
-**ID:** *ms-dotnettools.vscode-dotnet-runtime*
-**Descripción:** *This extension installs and manages different versions of the .NET SDK and Runtime.*
-**Versión:** `2.0.3`
-**Editor:** *Microsoft*
-[*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime")
+- **Name:** *.NET Install Tool*
+- **ID:** *ms-dotnettools.vscode-dotnet-runtime*
+- **Descripción:** *This extension installs and manages different versions of the .NET SDK and Runtime.*
+- **Versión:** `2.0.3`
+- **Editor:** *Microsoft*
+- [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.vscode-dotnet-runtime")
 
 ```text
 # Id Extension Vscode
