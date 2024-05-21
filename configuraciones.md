@@ -30,12 +30,12 @@
 
 ## ***Extensiones***
 
-**Name:** *advanced-new-file*
-**Id:** *patbenatar.advanced-new-file*
-**Description:** *Create files anywhere in your workspace from the keyboard*
-**Version:** `1.2.2`
-**Publisher:** *patbenatar*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file "https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file")
+- **Name:** *advanced-new-file*
+- **Id:** *patbenatar.advanced-new-file*
+- **Description:** *Create files anywhere in your workspace from the keyboard*
+- **Version:** `1.2.2`
+- **Publisher:** *patbenatar*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file "https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file")
 
 ```text
 # Id Extension
@@ -44,8 +44,8 @@ patbenatar.advanced-new-file
 
 ## ***Keyboard Shortcuts***
 
-**Title:** *Advanced New File*
-**ID:** *extension.advancedNewFile*
+- **Title:** *Advanced New File*
+- **ID:** *extension.advancedNewFile*
 
 ```json
 {
@@ -56,12 +56,12 @@ patbenatar.advanced-new-file
 
 ---
 
-**Name:** *Prettier - Code formatter*
-**Id:** *esbenp.prettier-vscode*
-**Description:** *Code formatter using prettier*
-**Version:** `10.4.0`
-**Publisher:** *Prettier*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode")
+- **Name:** *Prettier - Code formatter*
+- **Id:** *esbenp.prettier-vscode*
+- **Description:** *Code formatter using prettier*
+- **Version:** `10.4.0`
+- **Publisher:** *Prettier*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode")
 
 ```text
 # Id Extension
@@ -72,32 +72,33 @@ esbenp.prettier-vscode
 
 ## ***Python Extensiones***
 
-**Name:** *Python*
-**Id:** *ms-python.python*
-**Description:** *Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.*
-**Version:** `2024.4.0`
-[*Publisher: Microsoft*](https://marketplace.visualstudio.com/items?itemName=ms-python.python "https://marketplace.visualstudio.com/items?itemName=ms-python.python")
+- **Name:** *Python*
+- **Id:** *ms-python.python*
+- **Description:** *Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.*
+- **Version:** `2024.4.0`
+- [*Publisher: Microsoft*](https://marketplace.visualstudio.com/items?- itemName=ms-python.python "https://marketplace.visualstudio.com/items?itemName=ms-python.python")
 
-```json
+```text
+# Id Extension Vscode
 ms-python.python
 ```
 
 ## ***Keyboard Shortcuts Python Extensiones***
 
-**Title:** *Comandos de la extension*
-
+- **Title:** *Comandos de la extension*
+- 
 ```text
 @ext:ms-python.python
 ```
 
 ---
 
-**Name:** *Pylance*
-**Id:** *ms-python.vscode-pylance*
-**Description:** *A performant, feature-rich language server for Python in VS Code*
-**Version:** `2024.4.1`
-**Publisher:** *Microsoft*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance")
+- **Name:** *Pylance*
+- **Id:** *ms-python.vscode-pylance*
+- **Description:** *A performant, feature-rich language server for Python in VS Code*
+- **Version:** `2024.4.1`
+- **Publisher:** *Microsoft*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance")
 
 ```text
 # Id Extension
@@ -106,12 +107,12 @@ ms-python.vscode-pylance
 
 ---
 
-**Name:** *Python Debugger*
-**Id:** *ms-python.debugpy*
-**Description:** *Python Debugger extension using debugpy.*
-**Version:** `2024.5.10961012`
-**Publisher:** *Microsoft*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy")
+- **Name:** *Python Debugger*
+- **Id:** *ms-python.debugpy*
+- **Description:** *Python Debugger extension using debugpy.*
+- **Version:** `2024.5.10961012`
+- **Publisher:** *Microsoft*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy")
 
 ```text
 # Id Extension
@@ -122,12 +123,12 @@ ms-python.debugpy
 
 ## ***Javascript Extensiones***
 
-**Name:** *JavaScript (ES6) code snippets*
-**Id:** *xabikos.JavaScriptSnippets*
-**Description:** *Code snippets for JavaScript in ES6 syntax*
-**Version:** `1.8.0`
-**Publisher:** *charalampos karypidis*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets "https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets")
+- **Name:** *JavaScript (ES6) code snippets*
+- **Id:** *xabikos.JavaScriptSnippets*
+- **Description:** *Code snippets for JavaScript in ES6 syntax*
+- **Version:** `1.8.0`
+- **Publisher:** *charalampos karypidis*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets "https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets")
 
 ```text
 # Id Extension
@@ -144,12 +145,12 @@ npm i -D eslint -->
 2. npm install Eslint
 3. .eslintrc -->
 
-**Name:** *ESLint*
-**Id:** *dbaeumer.vscode-eslint*
-**Description:** *Integrates ESLint JavaScript into VS Code.*
-**Version:** `2.4.4`
-**Publisher:** *Microsoft*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint")
+- **Name:** *ESLint*
+- **Id:** *dbaeumer.vscode-eslint*
+- **Description:** *Integrates ESLint JavaScript into VS Code.*
+- **Version:** `2.4.4`
+- **Publisher:** *Microsoft*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint")
 
 ```text
 # Id Extension
@@ -158,12 +159,12 @@ dbaeumer.vscode-eslint
 
 ---
 
-**Name:** *Path Intellisense*
-**Id:** *christian-kohler.path-intellisense*
-**Description:** *Visual Studio Code plugin that autocompletes filenames*
-**Version:** `2.8.5`
-**Publisher:** *Christian Kohler*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense "https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense")
+- **Name:** *Path Intellisense*
+- **Id:** *christian-kohler.path-intellisense*
+- **Description:** *Visual Studio Code plugin that autocompletes filenames*
+- **Version:** `2.8.5`
+- **Publisher:** *Christian Kohler*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense "https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense")
 
 ```text
 # Id Extension
@@ -172,12 +173,12 @@ christian-kohler.path-intellisense
 
 ---
 
-**Name:** *Turbo Console Log*
-**Id:** *ChakrounAnas.turbo-console-log*
-**Description:** *Automating the process of writing meaningful log messages.*
-**Version:** `2.10.4`
-**Publisher:** *Anas Chakroun*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log")
+- **Name:** *Turbo Console Log*
+- **Id:** *ChakrounAnas.turbo-console-log*
+- **Description:** *Automating the process of writing meaningful log messages.*
+- **Version:** `2.10.4`
+- **Publisher:** *Anas Chakroun*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log")
 
 ```text
 # Id Extension
@@ -189,12 +190,12 @@ ChakrounAnas.turbo-console-log
 <!-- Permite convertir funciones a funciones arrows etc
 tienes que seleccionar la funcion y darle en icono de bombilla -->
 
-**Name:** *JavaScript Booster*
-**Id:** *sburg.vscode-javascript-booster*
-**Description:** *Boost your productivity with advanced JavaScript/TypeScript refactorings and commands*
-**Version:** `14.0.1`
-**Publisher:** *Stephan Burguchev*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster "https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster")
+- **Name:** *JavaScript Booster*
+- **Id:** *sburg.vscode-javascript-booster*
+- **Description:** *Boost your productivity with advanced JavaScript/TypeScript refactorings and commands*
+- **Version:** `14.0.1`
+- **Publisher:** *Stephan Burguchev*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster "https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster")
 
 ```text
 # Id Extension
@@ -215,12 +216,12 @@ value javascriptreact -->
 
 ---
 
-**Name:** *ES7+ React/Redux/React-Native snippets*
-**Id:** *dsznajder.es7-react-js-snippets*
-**Description:** *Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.*
-**Version:** `4.4.3`
-**Publisher:** *dsznajder*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets")
+- **Name:** *ES7+ React/Redux/React-Native snippets*
+- **Id:** *dsznajder.es7-react-js-snippets*
+- **Description:** *Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.*
+- **Version:** `4.4.3`
+- **Publisher:** *dsznajder*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets")
 
 ```text
 # Id Extension
@@ -229,8 +230,8 @@ dsznajder.es7-react-js-snippets
 
 ## ***Keyboard Shortcuts Javascript Extensiones***
 
-**Title:** *Snippet search*
-**ID:** *reactSnippets.search*
+- **Title:** *Snippet search*
+- **ID:** *reactSnippets.search*
 
 ```json
 {
@@ -258,12 +259,12 @@ kisstkondoros.vscode-gutter-preview
 
 ---
 
-**Name:** *Color Highlight*
-**Id:** *naumovs.color-highlight*
-**Description:** *Highlight web colors in your editor*
-**Version:** `2.8.0`
-**Publisher:** *Sergii N*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight "https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight")
+- **Name:** *Color Highlight*
+- **Id:** *naumovs.color-highlight*
+- **Description:** *Highlight web colors in your editor*
+- **Version:** `2.8.0`
+- **Publisher:** *Sergii N*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight "https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight")
 
 ```text
 # Id Extension
@@ -272,12 +273,12 @@ naumovs.color-highlight
 
 ---
 
-**Name:** *CSS Peek*
-**Id:** *pranaygp.vscode-css-peek*
-**Description:** *Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.*
-**Version:** `4.4.1`
-**Publisher:** *Pranay*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek "https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek")
+- **Name:** *CSS Peek*
+- **Id:** *pranaygp.vscode-css-peek*
+- **Description:** *Allow peeking to css ID and class strings as definitions from html files to respective CSS. Allows peek and goto definition.*
+- **Version:** `4.4.1`
+- **Publisher:** *Pranay*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek "https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek")
 
 ```text
 # Id Extension
@@ -286,12 +287,12 @@ pranaygp.vscode-css-peek
 
 ---
 
-**Name:** *Code Spell Checker*
-**Id:** *streetsidesoftware.code-spell-checker*
-**Description:** *Spelling checker for source code*
-**Version:** `3.0.1`
-**Publisher:** *Street Side Software*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware")code-spell-checker>
+- **Name:** *Code Spell Checker*
+- **Id:** *streetsidesoftware.code-spell-checker*
+- **Description:** *Spelling checker for source code*
+- **Version:** `3.0.1`
+- **Publisher:** *Street Side Software*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware")code-spell-checker>
 
 ```text
 # Id Extension
@@ -300,12 +301,12 @@ streetsidesoftware.code-spell-checker
 
 ---
 
-**Name:** *HTML CSS Support*
-**Id:** *ecmel.vscode-html-css*
-**Description:** *CSS Intellisense for HTML*
-**Version:** `2.0.9`
-**Publisher:** *ecmel*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css "https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css")
+- **Name:** *HTML CSS Support*
+- **Id:** *ecmel.vscode-html-css*
+- **Description:** *CSS Intellisense for HTML*
+- **Version:** `2.0.9`
+- **Publisher:** *ecmel*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css "https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css")
 
 ```text
 # Id Extension
@@ -316,24 +317,25 @@ ecmel.vscode-html-css
 
 ## ***Node y npm***
 
-**Name:** *gitignore*
-**Id:** *codezombiech.gitignore*
-**Description:** *Lets you pull .gitignore templates from the <https://github.com/github/gitignore> repository. Language support for .gitignore files.*
-**Version:** `0.9.0`
-[*Publisher: CodeZombie*](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore "https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore")
+- **Name:** *gitignore*
+- **Id:** *codezombiech.gitignore*
+- **Description:** *Lets you pull .gitignore templates from the <https://github.com/github/gitignore> repository. Language support for .gitignore files.*
+- **Version:** `0.9.0`
+- [*Publisher: CodeZombie*](https://marketplace.visualstudio.com/items?- itemName=codezombiech.gitignore "https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore")
 
-```json
+```text
+# Id Extension Vscode
 codezombiech.gitignore
 ```
 
 ---
 
-**Name:** *npm Intellisense*
-**Id:** *christian-kohler.npm-intellisense*
-**Description:** *Visual Studio Code plugin that autocompletes npm modules in import statements*
-**Version:** `1.4.5`
-**Publisher:** *Christian Kohler*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense "https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense")
+- **Name:** *npm Intellisense*
+- **Id:** *christian-kohler.npm-intellisense*
+- **Description:** *Visual Studio Code plugin that autocompletes npm modules in import statements*
+- **Version:** `1.4.5`
+- **Publisher:** *Christian Kohler*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense "https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense")
 
 ```text
 # Id Extension
@@ -342,12 +344,12 @@ christian-kohler.npm-intellisense
 
 ---
 
-**Name:** *Version Lens*
-**Id:** *pflannery.vscode-versionlens*
-**Description:** *Shows the latest version for each package using code lens*
-**Version:** `1.9.2`
-**Publisher:** *pflannery*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens "https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens")
+- **Name:** *Version Lens*
+- **Id:** *pflannery.vscode-versionlens*
+- **Description:** *Shows the latest version for each package using code lens*
+- **Version:** `1.9.2`
+- **Publisher:** *pflannery*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens "https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens")
 
 ```text
 # Id Extension
@@ -356,12 +358,12 @@ pflannery.vscode-versionlens
 
 ---
 
-**Name:** *Import Cost*
-**Id:** *wix.vscode-import-cost*
-**Description:** *Display import/require package size in the editor*
-**Version:** `3.3.0`
-**Publisher:** *Wix*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost "https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost")
+- **Name:** *Import Cost*
+- **Id:** *wix.vscode-import-cost*
+- **Description:** *Display import/require package size in the editor*
+- **Version:** `3.3.0`
+- **Publisher:** *Wix*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost "https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost")
 
 ```text
 # Id Extension
@@ -372,12 +374,12 @@ wix.vscode-import-cost
 
 ## ***Tailwind CSS***
 
-**Name:** *Tailwind CSS IntelliSense*
-**Id:** *bradlc.vscode-tailwindcss*
-**Description:** *Intelligent Tailwind CSS tooling for VS Code*
-**Version:** `0.10.5`
-**Publisher:** *Tailwind Labs*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss")
+- **Name:** *Tailwind CSS IntelliSense*
+- **Id:** *bradlc.vscode-tailwindcss*
+- **Description:** *Intelligent Tailwind CSS tooling for VS Code*
+- **Version:** `0.10.5`
+- **Publisher:** *Tailwind Labs*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss")
 
 ```text
 # Id Extension
@@ -386,12 +388,12 @@ bradlc.vscode-tailwindcss
 
 ---
 
-**Name:** *Headwind*
-**Id:** *heybourn.headwind*
-**Description:** *An opinionated class sorter for Tailwind CSS*
-**Version:** `1.7.0`
-**Publisher:** *Ryan Heybourn*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind "https://marketplace.visualstudio.com/items?itemName=heybourn.headwind")
+- **Name:** *Headwind*
+- **Id:** *heybourn.headwind*
+- **Description:** *An opinionated class sorter for Tailwind CSS*
+- **Version:** `1.7.0`
+- **Publisher:** *Ryan Heybourn*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind "https://marketplace.visualstudio.com/items?itemName=heybourn.headwind")
 
 ```text
 # Id Extension
@@ -400,8 +402,8 @@ heybourn.headwind
 
 ## ***Keyboard Shortcuts Tailwind CSS***
 
-**Title:** *Headwind: Sort Tailwind CSS Classes*
-**ID:** *headwind.sortTailwindClasses*
+- **Title:** *Headwind: Sort Tailwind CSS Classes*
+- **ID:** *headwind.sortTailwindClasses*
 
 ```json
 {
@@ -415,12 +417,12 @@ heybourn.headwind
 
 ## ***Markdown***
 
-**Name:** *Markdown Preview Github Styling*
-**Id:** *bierner.markdown-preview-github-styles*
-**Description:** *Changes VS Code's built-in markdown preview to match Github's style*
-**Version:** `2.0.4`
-**Publisher:** *Matt Bierner*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=bierner "https://marketplace.visualstudio.com/items?itemName=bierner")markdown-preview-github-styles>
+- **Name:** *Markdown Preview Github Styling*
+- **Id:** *bierner.markdown-preview-github-styles*
+- **Description:** *Changes VS Code's built-in markdown preview to match Github's style*
+- **Version:** `2.0.4`
+- **Publisher:** *Matt Bierner*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=bierner "https://marketplace.visualstudio.com/items?itemName=bierner")markdown-preview-github-styles>
 
 ```text
 # Id Extension
@@ -429,12 +431,12 @@ bierner.markdown-preview-github-styles
 
 ---
 
-**Name:** *Markdown Preview Enhanced*
-**Id:** *shd101wyy.markdown-preview-enhanced*
-**Description:** *Markdown Preview Enhanced ported to vscode*
-**Version:** `0.8.13`
-**Publisher:** *Yiyi Wang*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced")
+- **Name:** *Markdown Preview Enhanced*
+- **Id:** *shd101wyy.markdown-preview-enhanced*
+- **Description:** *Markdown Preview Enhanced ported to vscode*
+- **Version:** `0.8.13`
+- **Publisher:** *Yiyi Wang*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced")
 
 ```text
 # Id Extension
@@ -443,12 +445,12 @@ shd101wyy.markdown-preview-enhanced
 
 ---
 
-**Name:** *Markdown All in One*
-**Id:** *yzhang.markdown-all-in-one*
-**Description:** *All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)*
-**Version:** `3.6.2`
-**Publisher:** *Yu Zhang*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one "https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one")
+- **Name:** *Markdown All in One*
+- **Id:** *yzhang.markdown-all-in-one*
+- **Description:** *All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)*
+- **Version:** `3.6.2`
+- **Publisher:** *Yu Zhang*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one "https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one")
 
 ```text
 # Id Extension
@@ -457,12 +459,12 @@ yzhang.markdown-all-in-one
 
 ---
 
-**Name:** *markdownlint*
-**Id:** *DavidAnson.vscode-markdownlint*
-**Description:** *Markdown linting and style checking for Visual Studio Code*
-**Version:** `0.54.0`
-**Publisher:** *David Anson*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint "https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint")
+- **Name:** *markdownlint*
+- **Id:** *DavidAnson.vscode-markdownlint*
+- **Description:** *Markdown linting and style checking for Visual Studio Code*
+- **Version:** `0.54.0`
+- **Publisher:** *David Anson*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint "https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint")
 
 ```text
 # Id Extension
@@ -473,12 +475,12 @@ DavidAnson.vscode-markdownlint
 
 ## ***Php***
 
-**Name:** *PHP Intelephense*
-**Id:** *bmewburn.vscode-intelephense-client*
-**Description:** *PHP code intelligence for Visual Studio Code*
-**Version:** `1.10.4`
-**Publisher:** *Ben Mewburn*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client "https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client")
+- **Name:** *PHP Intelephense*
+- **Id:** *bmewburn.vscode-intelephense-client*
+- **Description:** *PHP code intelligence for Visual Studio Code*
+- **Version:** `1.10.4`
+- **Publisher:** *Ben Mewburn*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client "https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client")
 
 ```text
 # Id Extension
@@ -487,12 +489,12 @@ bmewburn.vscode-intelephense-client
 
 ---
 
-**Name:** *phpfmt - PHP formatter*
-**Id:** *kokororin.vscode-phpfmt*
-**Description:** *Integrates phpfmt into VS Code*
-**Version:** `1.1.39`
-**Publisher:** *kokororin*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt "https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt")
+- **Name:** *phpfmt - PHP formatter*
+- **Id:** *kokororin.vscode-phpfmt*
+- **Description:** *Integrates phpfmt into VS Code*
+- **Version:** `1.1.39`
+- **Publisher:** *kokororin*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt "https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt")
 
 ```text
 # Id Extension
@@ -501,12 +503,12 @@ kokororin.vscode-phpfmt
 
 ---
 
-**Name:** *Laravel Extra Intellisense*
-**Id:** *amiralizadeh9480.laravel-extra-intellisense*
-**Description:** *better intellisense for laravel projects.*
-**Version:** `0.6.4`
-**Publisher:** *amir*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480 "https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480")laravel-extra-intellisense>
+- **Name:** *Laravel Extra Intellisense*
+- **Id:** *amiralizadeh9480.laravel-extra-intellisense*
+- **Description:** *better intellisense for laravel projects.*
+- **Version:** `0.6.4`
+- **Publisher:** *amir*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480 "https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480")laravel-extra-intellisense>
 
 ```text
 # Id Extension
@@ -515,12 +517,12 @@ amiralizadeh9480.laravel-extra-intellisense
 
 ---
 
-**Name:** *Laravel Blade Snippets*
-**Id:** *onecentlin.laravel-blade*
-**Description:** *Laravel blade snippets and syntax highlight support*
-**Version:** `1.36.0`
-**Publisher:** *Winnie Lin*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade "https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade")
+- **Name:** *Laravel Blade Snippets*
+- **Id:** *onecentlin.laravel-blade*
+- **Description:** *Laravel blade snippets and syntax highlight support*
+- **Version:** `1.36.0`
+- **Publisher:** *Winnie Lin*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade "https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade")
 
 ```text
 # Id Extension
@@ -529,12 +531,12 @@ onecentlin.laravel-blade
 
 ---
 
-**Name:** *Laravel Blade Spacer*
-**Id:** *austenc.laravel-blade-spacer*
-**Description:** *Automatically add spaces in Laravel Blade template tags*
-**Version:** `2.3.0`
-**Publisher:** *Austen Cameron*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=austenc.laravel-blade-spacers "https://marketplace.visualstudio.com/items?itemName=austenc.laravel-blade-spacers")
+- **Name:** *Laravel Blade Spacer*
+- **Id:** *austenc.laravel-blade-spacer*
+- **Description:** *Automatically add spaces in Laravel Blade template tags*
+- **Version:** `2.3.0`
+- **Publisher:** *Austen Cameron*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=austenc.laravel-blade-spacers "https://marketplace.visualstudio.com/items?itemName=austenc.laravel-blade-spacers")
 
 ```text
 # Id Extension
@@ -820,12 +822,12 @@ alefragnani.project-manager
 
 ---
 
-**Name:** *Peacock*
-**Id:** *johnpapa.vscode-peacock*
-**Description:** *Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.*
-**Version:** `4.2.2`
-**Publisher**: *John*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock "https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock")
+- **Name:** *Peacock*
+- **Id:** *johnpapa.vscode-peacock*
+- **Description:** *Subtly change the workspace color of your workspace. Ideal when you have multiple VS Code instances and you want to quickly identify which is which.*
+- **Version:** `4.2.2`
+- **Publisher**: *John*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock "https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock")
 
 ```text
 # Id Extension
@@ -834,8 +836,8 @@ johnpapa.vscode-peacock
 
 ## ***Keyboard Shortcuts Multiple Projects***
 
-**Title:** *Comandos de Peacock*
-
+- **Title:** *Comandos de Peacock*
+- 
 ```text
 @ext:johnpapa.vscode-peacock
 ```
@@ -870,9 +872,9 @@ Wscats.cors-browser
 
 ---
 
-- livePreview.customExternalBrowser
+- *livePreview.customExternalBrowser*
 
-```json
+```text
 "livePreview.customExternalBrowser": "Default" // brave, firefox, chrome
 ```
 
@@ -896,12 +898,12 @@ enkia.tokyo-night
 
 ---
 
-**Name:** *Winter is Coming Theme*
-**Id:** *johnpapa.winteriscoming*
-**Description:** *Preferred dark/light themes by John Papa*
-**Version:** `1.4.4`
-**Publisher:** *John Papa*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming "https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming")
+- **Name:** *Winter is Coming Theme*
+- **Id:** *johnpapa.winteriscoming*
+- **Description:** *Preferred dark/light themes by John Papa*
+- **Version:** `1.4.4`
+- **Publisher:** *John Papa*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming "https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming")
 
 ```text
 # Id Extension
@@ -910,12 +912,12 @@ johnpapa.winteriscoming
 
 ---
 
-**Name:** *One Dark Pro*
-**Id:** *zhuangtongfa.Material-theme*
-**Description:** *Atom's iconic One Dark theme for Visual Studio Code*
-**Version:** `3.17.0`
-**Publisher:** *binaryify*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme "https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme")
+- **Name:** *One Dark Pro*
+- **Id:** *zhuangtongfa.Material-theme*
+- **Description:** *Atom's iconic One Dark theme for Visual Studio Code*
+- **Version:** `3.17.0`
+- **Publisher:** *binaryify*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme "https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme")
 
 ```text
 # Id Extension
@@ -924,12 +926,12 @@ zhuangtongfa.Material-theme
 
 ---
 
-**Name:** *Atom One Dark Theme*
-**Id:** *akamud.vscode-theme-onedark*
-**Description:** *One Dark Theme based on Atom*
-**Version:** `2.3.0`
-**Publisher:** *Mahmoud Ali*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark "https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark")
+- **Name:** *Atom One Dark Theme*
+- **Id:** *akamud.vscode-theme-onedark*
+- **Description:** *One Dark Theme based on Atom*
+- **Version:** `2.3.0`
+- **Publisher:** *Mahmoud Ali*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark "https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark")
 
 ```text
 # Id Extension
@@ -938,12 +940,12 @@ akamud.vscode-theme-onedark
 
 ---
 
-**Name:** *Shades of Purple*
-**Id:** *ahmadawais.shades-of-purple*
-**Description:** *🦄 A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps. One of the excellent, most downloaded, and top-rated VSCode Themes on the marketplace. Part of VSCode.pro course.*
-**Version:** `7.3.2`
-**Editor:** *Ahmad Awais ⚡*
-[*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple "https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple")
+- **Name:** *Shades of Purple*
+- **Id:** *ahmadawais.shades-of-purple*
+- **Description:** *🦄 A professional theme suite with hand-picked & bold shades of purple for your VS Code editor and terminal apps. One of the excellent, most downloaded, and top-rated VSCode Themes on the marketplace. Part of VSCode.pro course.*
+- **Version:** `7.3.2`
+- **Editor:** *Ahmad Awais ⚡*
+- [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple "https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple")
 
 ```text
 # Id Extension
@@ -952,12 +954,12 @@ ahmadawais.shades-of-purple
 
 ---
 
-**Name:** *Bluloco Dark Theme*
-**Id:** *uloco.theme-bluloco-dark*
-**Description:** *A fancy but yet sophisticated dark designer color scheme / theme.*
-**Version:** `3.7.4`
-**Publisher:** *Umut Topuzoğlu*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark "https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark")
+- **Name:** *Bluloco Dark Theme*
+- **Id:** *uloco.theme-bluloco-dark*
+- **Description:** *A fancy but yet sophisticated dark designer color scheme / theme.*
+- **Version:** `3.7.4`
+- **Publisher:** *Umut Topuzoğlu*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark "https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark")
 
 ```text
 # Id Extension
@@ -966,12 +968,12 @@ uloco.theme-bluloco-dark
 
 ---
 
-**Name:** *Sapphire Theme*
-**Id:** *Tyriar.theme-sapphire*
-**Description:** *Sapphire is a vibrant blue theme for Visual Studio Code*
-**Version:** `0.9.4`
-**Publisher:** *Daniel Imms*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-sapphire "https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-sapphire")
+- **Name:** *Sapphire Theme*
+- **Id:** *Tyriar.theme-sapphire*
+- **Description:** *Sapphire is a vibrant blue theme for Visual Studio Code*
+- **Version:** `0.9.4`
+- **Publisher:** *Daniel Imms*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-sapphire "https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-sapphire")
 
 ```text
 # Id Extension
@@ -980,12 +982,12 @@ Tyriar.theme-sapphire
 
 ---
 
-**Name:** *Halcyon Theme*
-**Id:** *brittanychiang.halcyon-vscode*
-**Description:** *A dark blue theme for VS Code based on the Ayu Mirage theme*
-**Version:** `0.2.25`
-**Publisher:** *brittanychiang*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode "https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode")
+- **Name:** *Halcyon Theme*
+- **Id:** *brittanychiang.halcyon-vscode*
+- **Description:** *A dark blue theme for VS Code based on the Ayu Mirage theme*
+- **Version:** `0.2.25`
+- **Publisher:** *brittanychiang*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode "https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode")
 
 ```text
 # Id Extension
@@ -994,12 +996,12 @@ brittanychiang.halcyon-vscode
 
 ---
 
-**Name:** *Fluent Icons*
-**Id:** *miguelsolorio.fluent-icons*
-**Description:** *Fluent product icons for Visual Studio Code*
-**Version:** `0.0.18`
-**Publisher:** *Miguel Solorio*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons "https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons")
+- **Name:** *Fluent Icons*
+- **Id:** *miguelsolorio.fluent-icons*
+- **Description:** *Fluent product icons for Visual Studio Code*
+- **Version:** `0.0.18`
+- **Publisher:** *Miguel Solorio*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons "https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons")
 
 ```text
 # Id Extension
@@ -1008,12 +1010,12 @@ miguelsolorio.fluent-icons
 
 ---
 
-**Name:** *Material Icon Theme*
-**Id:** *PKief.material-icon-theme*
-**Description:** *Material Design Icons for Visual Studio Code*
-**Version:** `4.34.0`
-**Publisher:** *Philipp Kief*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme")
+- **Name:** *Material Icon Theme*
+- **Id:** *PKief.material-icon-theme*
+- **Description:** *Material Design Icons for Visual Studio Code*
+- **Version:** `4.34.0`
+- **Publisher:** *Philipp Kief*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme")
 
 ```text
 # Id Extension
@@ -1022,12 +1024,12 @@ PKief.material-icon-theme
 
 ---
 
-**Name:** *Symbols*
-**Id:** *miguelsolorio.symbols*
-**Description:** *A simple file icon theme for VS Code*
-**Version:** `0.0.17`
-**Publisher:** *Miguel Solorio*
-[*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols "https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols")
+- **Name:** *Symbols*
+- **Id:** *miguelsolorio.symbols*
+- **Description:** *A simple file icon theme for VS Code*
+- **Version:** `0.0.17`
+- **Publisher:** *Miguel Solorio*
+- [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols "https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols")
 
 ```text
 # Id Extension
@@ -1038,7 +1040,7 @@ miguelsolorio.symbols
 
 ## ***Fonts***
 
-- editor.fontFamily
+- *editor.fontFamily*
 
 ```json
 "editor.fontFamily": "'Cascadia Code','FiraCode Nerd Font Mono','Droid Sans Mono', 'monospace'"
@@ -1046,7 +1048,7 @@ miguelsolorio.symbols
 
 ---
 
-- editor.fontLigatures
+- *editor.fontLigatures*
 
 ```json
 "editor.fontLigatures": false
@@ -1054,7 +1056,7 @@ miguelsolorio.symbols
 
 ---
 
-- editor.fontSize
+- *editor.fontSize*
 
 ```json
 "editor.fontSize": 18
@@ -1065,7 +1067,7 @@ miguelsolorio.symbols
 <!-- para calcular el tamaño de line height puedes hacer
 <num> * 1.6 -->
 
-editor.lineHeight
+- *editor.lineHeight*
 
 ```json
 "editor.lineHeight": 30
@@ -1073,7 +1075,7 @@ editor.lineHeight
 
 ---
 
-- editor.mouseWheelZoom
+- *editor.mouseWheelZoom*
 
 ```json
 "editor.mouseWheelZoom": true
@@ -1083,7 +1085,7 @@ editor.lineHeight
 
 ## ***Configuaration***
 
-- editor.tabSize
+- *editor.tabSize*
 
 ```json
 "editor.tabSize": 4
@@ -1093,17 +1095,17 @@ editor.lineHeight
 
 <!-- valor recomendado 80 -->
 
-- editor.rulers
+- *editor.rulers*
 
 ```json
 "editor.rulers": [
-  <num>
+  80
 ]
 ```
 
 ---
 
-- editor.guides.indentation
+- *editor.guides.indentation*
 
 ```json
 "editor.guides.indentation": true
@@ -1111,7 +1113,7 @@ editor.lineHeight
 
 ---
 
-- editor.wordWrap
+- *editor.wordWrap*
 
 ```json
 "editor.wordWrap": "on"
@@ -1119,7 +1121,7 @@ editor.lineHeight
 
 ---
 
-- editor.cursorBlinking
+- *editor.cursorBlinking*
 
 ```json
 "editor.cursorBlinking": "expand"
@@ -1127,7 +1129,7 @@ editor.lineHeight
 
 ---
 
-- terminal.integrated.cursorBlinking
+- *terminal.integrated.cursorBlinking*
 
 ```json
 "terminal.integrated.cursorBlinking": true
@@ -1135,9 +1137,9 @@ editor.lineHeight
 
 ---
 
-- Editar groups
+- *Editar groups*
 
-```json
+```text
 View -> Editor Layout
 ```
 
@@ -1145,13 +1147,13 @@ View -> Editor Layout
 
 <!-- Para visualizar varios ficheros ala vez -->
 
-- workbench.editor.enablePreview
+- *workbench.editor.enablePreview*
 
 ```json
 "workbench.editor.enablePreview": true
 ```
 
-```json
+```text
 Ctrl + z || doble click
 ```
 
@@ -1159,7 +1161,7 @@ Ctrl + z || doble click
 
 <!-- valor por default WelcomePage -->
 
-- workbench.startupEditor
+- *workbench.startupEditor*
 
 ```json
 "workbench.startupEditor": "newUntitledFile"
@@ -1167,8 +1169,8 @@ Ctrl + z || doble click
 
 <!-- Selecionar lenguage -->
 
-**Title:** Change Language Mode
-**ID:** workbench.action.editor.changeLanguageMode
+- **Title:** *Change Language Mode*
+- **ID:** *workbench.action.editor.changeLanguageMode*
 
 ```json
 {
@@ -1180,7 +1182,7 @@ Ctrl + z || doble click
 
 ---
 
-- files.defaultLanguage
+- *files.defaultLanguage*
 
 ```json
 "files.defaultLanguage": "python"
@@ -1197,8 +1199,8 @@ o ctrl + n -->
 
 Debes colocar el id de la extension y ponerlo entre comillas, si quieres agregar mas ponle seguido de una coma -->
 
-**Title:** Configure Recommended Extensions (Workspace Folder)
-**ID:** workbench.extensions.action.configureWorkspaceFolderRecommendedExtensions
+- **Title:** *Configure Recommended Extensions (Workspace Folder)*
+- **ID:** *workbench.extensions.action.configureWorkspaceFolderRecommendedExtensions*
 
 ```json
 {
@@ -1212,8 +1214,8 @@ Debes colocar el id de la extension y ponerlo entre comillas, si quieres agregar
 <!-- New Global Snippets File
 selecciona esta opcion para crear un nuevo snippet. Luego tendras que ponerle un nombre al snippet y te generara unos comentarios con la sintaxis que debes usar -->
 
-**Title**: Snippets: Configure User Snippets
-**ID**: workbench.action.openSnippets
+**Title**: *Snippets: Configure User Snippets*
+**ID**: *workbench.action.openSnippets*
 
 ```json
 {
@@ -1224,8 +1226,8 @@ selecciona esta opcion para crear un nuevo snippet. Luego tendras que ponerle un
 
 ---
 
-**Title:** Emmet: Wrap with Abbreviation
-**ID:** editor.emmet.action.wrapWithAbbreviation
+- **Title:** *Emmet: Wrap with Abbreviation*
+- **ID:** *editor.emmet.action.wrapWithAbbreviation*
 
 ```json
 {
@@ -1236,8 +1238,8 @@ selecciona esta opcion para crear un nuevo snippet. Luego tendras que ponerle un
 
 ---
 
-**Title:** Emmet: Go to Matching Pair
-**ID:** editor.emmet.action.matchTag
+- **Title:** *Emmet: Go to Matching Pair*
+- **ID:** *editor.emmet.action.matchTag*
 
 ```json
 {
@@ -1248,8 +1250,8 @@ selecciona esta opcion para crear un nuevo snippet. Luego tendras que ponerle un
 
 ---
 
-**Title:** Emmet: Balance (outward)
-**ID:** editor.emmet.action.balanceOut
+- **Title:** *Emmet: Balance (outward)*
+- **ID:** *editor.emmet.action.balanceOut*
 
 ```json
 {
@@ -1260,8 +1262,8 @@ selecciona esta opcion para crear un nuevo snippet. Luego tendras que ponerle un
 
 ---
 
-**Title:** Emmet: Balance (inward)
-**ID:** editor.emmet.action.balanceIn
+- **Title:** *Emmet: Balance (inward)*
+- **ID:** *editor.emmet.action.balanceIn*
 
 ```json
 {
@@ -1272,7 +1274,7 @@ selecciona esta opcion para crear un nuevo snippet. Luego tendras que ponerle un
 
 ---
 
-- html.autoClosingTags
+- *html.autoClosingTags*
 
 ```json
 "html.autoClosingTags": true
@@ -1280,7 +1282,7 @@ selecciona esta opcion para crear un nuevo snippet. Luego tendras que ponerle un
 
 ---
 
-- javascript.autoClosingTags
+- *javascript.autoClosingTags*
 
 ```json
 "javascript.autoClosingTags": true
@@ -1288,7 +1290,7 @@ selecciona esta opcion para crear un nuevo snippet. Luego tendras que ponerle un
 
 ---
 
-- typescript.autoClosingTags
+- *typescript.autoClosingTags*
 
 ```json
 "typescript.autoClosingTags": true
@@ -1298,7 +1300,7 @@ selecciona esta opcion para crear un nuevo snippet. Luego tendras que ponerle un
 
 <!-- default: false -->
 
-- editor.linkedEditing
+- *editor.linkedEditing*
 
 ```json
 "editor.linkedEditing": true
@@ -1308,30 +1310,34 @@ selecciona esta opcion para crear un nuevo snippet. Luego tendras que ponerle un
 
 <!-- default: auto -->
 
-- html.format.wrapAttributes
+- *html.format.wrapAttributes*
 
-````json
+```json
 "html.format.wrapAttributes": "force"
-```conf
+```
 
 ---
 
-<!-- Link
-https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css -->
-- css.styleSheets
+<!-- Link https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css -->
+
+- *css.styleSheets*
+
+```text
+Link https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css
+```
 
 ```json
 "css.styleSheets": [
   "https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css"
 ]
-````
+```
 
 ---
 
 <!-- para que te detecte automaticamen el path del fichero solamente funcion con
 al mover el fichero con el mouse -->
 
-editor.codeActionsOnSave
+- *editor.codeActionsOnSave*
 
 ```json
 "editor.codeActionsOnSave": {
@@ -1342,7 +1348,7 @@ editor.codeActionsOnSave
 
 ---
 
-- headwind.runOnSave
+- *headwind.runOnSave*
 
 ```json
 "headwind.runOnSave": true
@@ -1350,7 +1356,7 @@ editor.codeActionsOnSave
 
 ---
 
-- markdown-preview-github-styles.colorTheme
+- *markdown-preview-github-styles.colorTheme*
 
 ```json
 "markdown-preview-github-styles.colorTheme": "dark"
@@ -1358,7 +1364,7 @@ editor.codeActionsOnSave
 
 ---
 
-- markdown-preview-github-styles.lightTheme
+- *markdown-preview-github-styles.lightTheme*
 
 ```json
 "markdown-preview-github-styles.lightTheme": "dark"
@@ -1366,7 +1372,7 @@ editor.codeActionsOnSave
 
 ---
 
-- markdown-preview-github-styles.darkTheme
+- *markdown-preview-github-styles.darkTheme*
 
 ```json
 "markdown-preview-github-styles.darkTheme": "dark"
@@ -1374,7 +1380,7 @@ editor.codeActionsOnSave
 
 ---
 
-- editor.cursorSmoothCaretAnimation
+- *editor.cursorSmoothCaretAnimation*
 
 ```json
 "editor.cursorSmoothCaretAnimation": "on"
@@ -1382,7 +1388,7 @@ editor.codeActionsOnSave
 
 ---
 
-- terminal.integrated.fontSize
+- *terminal.integrated.fontSize*
 
 ```json
 "terminal.integrated.fontSize": 18
@@ -1390,7 +1396,7 @@ editor.codeActionsOnSave
 
 ---
 
-- terminal.integrated.mouseWheelZoom
+- *terminal.integrated.mouseWheelZoom*
 
 ```json
 "terminal.integrated.mouseWheelZoom": true
@@ -1398,7 +1404,7 @@ editor.codeActionsOnSave
 
 ---
 
-- terminal.integrated.lineHeight
+- *terminal.integrated.lineHeight*
 
 ```json
 "terminal.integrated.lineHeight": 1.5
@@ -1406,7 +1412,7 @@ editor.codeActionsOnSave
 
 ---
 
-- terminal.external.windowsExec
+- *terminal.external.windowsExec*
 
 ```json
 "terminal.external.windowsExec": "C:\\Windows\\System32\\cmd.exe"
@@ -1414,7 +1420,7 @@ editor.codeActionsOnSave
 
 ---
 
-- git.defaultCloneDirectory
+- *git.defaultCloneDirectory*
 
 ```json
 "git.defaultCloneDirectory": null
@@ -1426,15 +1432,15 @@ editor.codeActionsOnSave
 
 ---
 
-- git.autofetch
+- *git.autofetch*
 
-```json
+```text
 "git.autofetch": false // true. default false
 ```
 
 ---
 
-- files.autoSave
+- *files.autoSave*
 
 ```json
 "files.autoSave": "afterDelay"
@@ -1442,7 +1448,7 @@ editor.codeActionsOnSave
 
 ---
 
-- files.autoSaveDelay
+- *files.autoSaveDelay*
 
 ```json
 "files.autoSaveDelay": 1000
@@ -1450,7 +1456,7 @@ editor.codeActionsOnSave
 
 ---
 
-- editor.defaultFormatter
+- *editor.defaultFormatter*
 
 ```json
 "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -1458,7 +1464,7 @@ editor.codeActionsOnSave
 
 ---
 
-- editor.formatOnSave
+- *editor.formatOnSave*
 
 ```json
 "editor.formatOnSave": true
@@ -1466,7 +1472,7 @@ editor.codeActionsOnSave
 
 ---
 
-- notebook.formatOnSave.enabled
+- *notebook.formatOnSave.enabled*
 
 ```json
 "notebook.formatOnSave.enabled": false
@@ -1474,8 +1480,8 @@ editor.codeActionsOnSave
 
 ---
 
-**Title:** Preferencias: Abrir métodos abreviados de teclado
-**ID:** workbench.action.openGlobalKeybindings
+- **Title:** *Preferencias: Abrir métodos abreviados de teclado*
+- **ID:** *workbench.action.openGlobalKeybindings*
 
 ```json
 {
@@ -1486,7 +1492,7 @@ editor.codeActionsOnSave
 
 ---
 
-- editor.cursorSmoothCaretAnimation
+- *editor.cursorSmoothCaretAnimation*
 
 ```json
 "editor.cursorSmoothCaretAnimation": "on"
@@ -1494,7 +1500,7 @@ editor.codeActionsOnSave
 
 ---
 
-- files.exclude
+- *files.exclude*
 
 ```json
 "files.exclude": {
@@ -1509,7 +1515,7 @@ editor.codeActionsOnSave
 
 ---
 
--telemetry.telemetryLevel
+- *telemetry.telemetryLevel*
 
 ```json
 "telemetry.telemetryLevel": "off"
@@ -1517,7 +1523,7 @@ editor.codeActionsOnSave
 
 ---
 
-- workbench.editor.languageDetection
+- *workbench.editor.languageDetection*
 
 ```json
 "workbench.editor.languageDetection": true
@@ -1525,7 +1531,7 @@ editor.codeActionsOnSave
 
 ---
 
-- oneDarkPro
+- *oneDarkPro*
 
 ```json
 "oneDarkPro.bold": true,
@@ -1536,7 +1542,7 @@ editor.codeActionsOnSave
 
 ---
 
-- editor.defaultFormatter
+- *editor.defaultFormatter*
 
 ```json
 "[html]": {
@@ -1546,7 +1552,7 @@ editor.codeActionsOnSave
 
 ---
 
-- editor.defaultFormatter
+- *editor.defaultFormatter*
 
 ```json
 "[css]": {
@@ -1556,7 +1562,7 @@ editor.codeActionsOnSave
 
 ---
 
-- editor.defaultFormatter
+- *editor.defaultFormatter*
 
 ```json
 "[javascript]": {
@@ -1566,7 +1572,7 @@ editor.codeActionsOnSave
 
 ---
 
-- editor.defaultFormatter
+- *editor.defaultFormatter*
 
 ```json
 "[markdown]": {
@@ -1576,17 +1582,17 @@ editor.codeActionsOnSave
 
 ---
 
-- editor.defaultFormatter
+- *editor.defaultFormatter*
 
 ```json
 "[php]": {
-  // "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
 },
 ```
 
 ---
 
-- editor.defaultFormatter
+- *editor.defaultFormatter*
 
 ```json
 "[jsonc]": {
@@ -1595,9 +1601,8 @@ editor.codeActionsOnSave
 ```
 
 <!--
-esto es true
-
- "editor.codeActionsOnSave": {
-        "source.fixAll": "explicit",
-        "source.organizeImports": "explicit"
-    }, -->
+Esto es true
+"editor.codeActionsOnSave": {
+  "source.fixAll": "explicit",
+  "source.organizeImports": "explicit"
+}, -->
