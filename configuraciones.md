@@ -1600,6 +1600,38 @@ al mover el fichero con el mouse -->
   },
 ```
 
+---
+
+- *terminal.integrated.cursorBlinking*
+
+```json
+"terminal.integrated.cursorBlinking": true
+```
+
+---
+
+- *terminal.integrated.cursorStyle*
+
+```json
+"terminal.integrated.cursorStyle": "line"
+```
+
+---
+
+- *terminal.integrated.cursorStyleInactive*
+
+```json
+"terminal.integrated.cursorStyleInactive": "line"
+```
+
+---
+
+- *terminal.integrated.cursorWidth*
+
+```json
+"terminal.integrated.cursorWidth": 2
+```
+
 <!--
 Esto es true
 "editor.codeActionsOnSave": {
