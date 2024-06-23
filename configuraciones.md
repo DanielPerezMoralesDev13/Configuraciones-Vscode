@@ -1632,6 +1632,12 @@ al mover el fichero con el mouse -->
 "terminal.integrated.cursorWidth": 2
 ```
 
+- *"terminal.integrated.stickyScroll.enabled": true*
+
+```json
+"terminal.integrated.stickyScroll.enabled": true
+```
+
 <!--
 Esto es true
 "editor.codeActionsOnSave": {
