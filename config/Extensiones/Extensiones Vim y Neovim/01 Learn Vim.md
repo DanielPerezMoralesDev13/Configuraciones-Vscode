@@ -12,6 +12,6 @@
 - **[Vínculo de VS Marketplace:](https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim "https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim")**
 
 ```plaintext
-# Id Extensión Vscode
-vintharas.learn-vim // No instalada
+# Id Extensión Vscode (No Instalada Actualmente)
+vintharas.learn-vim
 ```
