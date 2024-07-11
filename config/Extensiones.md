@@ -3,135 +3,11 @@
 <!-- Correo electrónico: danielperezdev@proton.me -->
 # ***Extensiónes***
 
----
-
-## ***Bash Extensiónes***
-
----
-
----
-
-- **Nombre:** *ShellCheck*
-- **ID:** *timonwong.shellcheck*
-- **Descripción:** *Integrates ShellCheck into VS Code, a linter for Shell scripts.*
-- **Versión:** `0.37.1`
-- **Editor:** *Timon Wong*
-- [**Vínculo de VS Marketplace**](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck "https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck")
-
-```text
-# Id Extensión Vscode
-timonwong.shellcheck
-```
-
----
-
-- **Nombre:** *Bash Debug*
-- **ID:** *rogalmic.bash-debug*
-- **Descripción:** *A debugger Extensión for bash scripts (using bashdb).*
-- **Versión:** `0.3.9`
-- **Editor:** *rogalmic*
-- [**Vínculo de VS Marketplace**](https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug "https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug")
-
-```text
-# Id Extensión Vscode
-rogalmic.bash-debug
-```
-
----
-
-- **Nombre:** *Bash IDE*
-- **ID:** *mads-hartmann.bash-ide-vscode*
-- **Descripción:** *A language server for Bash*
-- **Versión:** `1.39.0`
-- **Editor:** *Mads Hartmann*
-- [**Vínculo de VS Marketplace**](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode "https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode")
-
-```text
-# Id Extensión Vscode
-mads-hartmann.bash-ide-vscode
-```
-
----
-
-- **Nombre:** *shellman*
-- **ID:** *Remisa.shellman*
-- **Descripción:** *Shell script snippet*
-- **Versión:** `5.7.0`
-- **Editor:** *Remisa*
-- [**Vínculo de VS Marketplace**](https://marketplace.visualstudio.com/items?itemName=Remisa.shellman "https://marketplace.visualstudio.com/items?itemName=Remisa.shellman")
-
-```text
-# Id Extensión Vscode
-Remisa.sheltext
-```
-
----
-
-- **Nombre:** *Shebang Snippets*
-- **ID:** *rpinski.shebang-snippets*
-- **Descripción:** *Snippets for shebang lines for different types of scripts.*
-- **Versión:** `0.1.4`
-- **Editor:** *Andreas Weizel*
-- [**Vínculo de VS Marketplace**](https://marketplace.visualstudio.com/items?itemName=rpinski.shebang-snippets "https://marketplace.visualstudio.com/items?itemName=rpinski.shebang-snippets")
-
-```text
-# Id Extensión Vscode
-rpinski.shebang-snippets
-```
-
----
-
 ## ***Python Extensiónes***
 
-- **Name:** *Python*
-- **ID:** *ms-python.python*
-- **Descripción:** *Python language support with Extensión access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit - tests, and more.*
-- **Version:** *2024.4.0*
-- **Editor:** *Microsoft*
-[*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=ms-python.python "https://marketplace.visualstudio.com/items?itemName=ms-python.python")
-
-```text
-# Id Extensión Vstext
-# Id Extensión Vscode
-ms-python.python
-```
-
-## ***Keyboard Shortcuts Python Extensiónes***
-
-**Title:** *Comandos de la Extensión*
-
-```text
-@ext:ms-python.python
-```
-
 ---
 
-- **Name:** *Pylance*
-- **ID:** *ms-python.vscode-pylance*
-- **Descripción:** *A performant, feature-rich language server for Python in VS Code*
-- **Version:** *2024.4.1*
-- **Editor:** *Microsoft*
-- [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance")
-
-```text
-# Id Extensión Vscode
-ms-python.vscode-pylance
-```
-
 ---
-
-- **Name:** *Python Debugger*
-- **ID:** *ms-python.debugpy*
-- **Descripción:** *Python Debugger Extensión using debugpy.*
-- **Version:** *2024.5.10961012*
-- **Editor:** *Microsoft*
-- [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy")
-
-```text
-# Id Extensión Vstext
-# Id Extensión Vscode
-ms-python.debugpy
-```
 
 ## ***Jupyter Extensiónes***
 
@@ -231,7 +107,6 @@ formulahendry.code-runner
 - [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=humao.rest-client "https://marketplace.visualstudio.com/items?itemName=humao.rest-client")
 
 ```text
-# Id Extensión Vstext
 # Id Extensión Vscode
 humao.rest-client
 ```
@@ -548,7 +423,6 @@ bradlc.vscode-tailwindcss
 - [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind "https://marketplace.visualstudio.com/items?itemName=heybourn.headwind")
 
 ```text
-# Id Extensión Vstext
 # Id Extensión Vscode
 heybourn.headwind
 ```
@@ -738,7 +612,6 @@ donjayamanne.githistory
 - [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame "https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame")
 
 ```text
-# Id Extensión Vstext
 # Id Extensión Vscode
 waderyan.gitblame
 ```
@@ -753,7 +626,6 @@ waderyan.gitblame
 - [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink "https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink")
 
 ```text
-# Id Extensión Vstext
 # Id Extensión Vscode
 qezhu.gitlink
 ```
@@ -782,7 +654,6 @@ lamartire.git-indicators
 [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens")
 
 ```text
-# Id Extensión Vstext
 # Id Extensión Vscode
 eamodio.gitlens
 ```
@@ -811,7 +682,6 @@ GitHub.vscode-pull-request-github
 - [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub "https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub")
 
 ```text
-# Id Extensión Vstext
 # Id Extensión Vscode
 GitHub.remotehub
 ```
@@ -826,7 +696,6 @@ GitHub.remotehub
 - [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces "https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces")
 
 ```text
-# Id Extensión Vstext
 # Id Extensión Vscode
 GitHub.codespaces
 ```
@@ -887,7 +756,6 @@ rangav.vscode-thunder-client
 - [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim")
 
 ```text
-# Id Extensión Vstext
 # Id Extensión Vscode
 vscodevim.vim
 ```
@@ -932,7 +800,6 @@ TabNine.tabnine-vscode // No instalada
 - [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot")
 
 ```text
-# Id Extensión Vstext
 # Id Extensión Vscode
 GitHub.copilot // No instalada
 ```
@@ -1095,7 +962,6 @@ ms-dotnettools.csdevkit
 - [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap "https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap")
 
 ```text
-# Id Extensión Vstext
 # Id Extensión Vscode
 adpyke.codesnap
 ```
@@ -1182,7 +1048,6 @@ vscjava.vscode-java-pack
 - [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=redhat.java "https://marketplace.visualstudio.com/items?itemName=redhat.java")
 
 ```text
-# Id Extensión Vstext
 # Id Extensión Vscode
 redhat.java
 ```
@@ -1273,7 +1138,6 @@ rust-lang.rust-analyzer
 - [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=sumneko.lua "https://marketplace.visualstudio.com/items?itemName=sumneko.lua")
 
 ```text
-# Id Extensión Vstext
 # Id Extensión Vscode
 sumneko.lua
 ```
