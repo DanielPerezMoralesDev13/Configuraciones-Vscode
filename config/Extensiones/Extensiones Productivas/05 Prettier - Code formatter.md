@@ -11,7 +11,7 @@
 - **Editor:** *Prettier*
 - **[Vínculo de VS Marketplace:](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 esbenp.prettier-vscode
 ```

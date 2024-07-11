@@ -11,7 +11,7 @@
 - **Editor:** *Remisa*
 - **[Vínculo de VS Marketplace](https://marketplace.visualstudio.com/items?itemName=Remisa.shellman "https://marketplace.visualstudio.com/items?itemName=Remisa.shellman")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 Remisa.sheltext
 ```

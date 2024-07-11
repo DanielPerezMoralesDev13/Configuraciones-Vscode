@@ -11,7 +11,7 @@
 - **Editor:** *Mads Hartmann*
 - **[Vínculo de VS Marketplace](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode "https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 mads-hartmann.bash-ide-vscode
 ```

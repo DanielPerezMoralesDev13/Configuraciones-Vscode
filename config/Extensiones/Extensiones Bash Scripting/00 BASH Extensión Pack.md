@@ -11,7 +11,7 @@
 - **Editor:** *lizebang*
 - **[Vínculo de VS Marketplace](https://marketplace.visualstudio.com/items?itemName=lizebang.bash-Extensión-pack "https://marketplace.visualstudio.com/items?itemName=lizebang.bash-Extensión-pack")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 lizebang.bash-Extensión-pack
 ```

@@ -11,7 +11,7 @@
 - **Editor:** *rogalmic*
 - **[Vínculo de VS Marketplace](https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug "https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 rogalmic.bash-debug
 ```

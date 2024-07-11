@@ -11,7 +11,7 @@
 - **Editor:** *Aaron Bond*
 - **[Vínculo de VS Marketplace:](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments "https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 aaron-bond.better-comments
 ```

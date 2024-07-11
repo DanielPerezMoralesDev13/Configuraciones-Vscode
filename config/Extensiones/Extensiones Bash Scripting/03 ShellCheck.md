@@ -11,7 +11,7 @@
 - **Editor:** *Timon Wong*
 - **[Vínculo de VS Marketplace](https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck "https://marketplace.visualstudio.com/items?itemName=timonwong.shellcheck")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 timonwong.shellcheck
 ```

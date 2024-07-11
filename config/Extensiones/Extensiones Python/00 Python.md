@@ -11,7 +11,7 @@
 - **Editor:** *Microsoft*
 - **[Vínculo de VS Marketplace:](https://marketplace.visualstudio.com/items?itemName=ms-python.python "https://marketplace.visualstudio.com/items?itemName=ms-python.python")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 ms-python.python
 ```
@@ -22,6 +22,6 @@ ms-python.python
 
 **Title:** *Comandos de la Extensión*
 
-```text
+```plaintext
 @ext:ms-python.python
 ```

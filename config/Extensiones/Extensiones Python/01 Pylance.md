@@ -11,7 +11,7 @@
 - **Editor:** *Microsoft*
 - **[Vínculo de VS Marketplace:](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 ms-python.vscode-pylance
 ```

@@ -11,7 +11,7 @@
 - **Editor:** *Andreas Weizel*
 - **[Vínculo de VS Marketplace](https://marketplace.visualstudio.com/items?itemName=rpinski.shebang-snippets "https://marketplace.visualstudio.com/items?itemName=rpinski.shebang-snippets")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 rpinski.shebang-snippets
 ```

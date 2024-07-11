@@ -11,7 +11,7 @@
 - **Editor:** *Microsoft*
 - **[Vínculo de VS Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell "https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 ms-vscode.PowerShell
 ```

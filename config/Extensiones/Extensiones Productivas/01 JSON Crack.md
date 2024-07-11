@@ -11,7 +11,7 @@
 - **Editor:** *Aykut Saraç*
 - **[Vínculo de VS Marketplace:](https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode "https://marketplace.visualstudio.com/items?itemName=AykutSarac.jsoncrack-vscode")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 AykutSarac.jsoncrack-vscode
 ```

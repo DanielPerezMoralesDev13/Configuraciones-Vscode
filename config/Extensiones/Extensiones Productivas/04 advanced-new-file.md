@@ -11,7 +11,7 @@
 - **Editor:** *patbenatar*
 - **[Vínculo de VS Marketplace:](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file "https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 patbenatar.advanced-new-file
 ```

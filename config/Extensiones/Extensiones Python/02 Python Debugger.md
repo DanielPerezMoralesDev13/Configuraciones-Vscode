@@ -11,7 +11,7 @@
 - **Editor:** *Microsoft*
 - **[Vínculo de VS Marketplace:](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 ms-python.debugpy
 ```

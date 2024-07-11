@@ -11,7 +11,7 @@
 - **Editor:** *Alexander*
 - **[Vínculo de VS Marketplace:](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 usernamehw.errorlens
 ```

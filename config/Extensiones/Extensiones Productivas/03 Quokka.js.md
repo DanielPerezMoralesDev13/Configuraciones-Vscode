@@ -11,7 +11,7 @@
 - **Editor:** *Wallaby.js*
 - **[Vínculo de VS Marketplace:](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode "https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 WallabyJs.quokka-vscode
 ```

@@ -11,7 +11,7 @@
 - **Editor:** *foxundermoon*
 - **[Vínculo de VS Marketplace](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format "https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format")**
 
-```text
+```plaintext
 # Id Extensión Vscode
 foxundermoon.shell-format
 ```
