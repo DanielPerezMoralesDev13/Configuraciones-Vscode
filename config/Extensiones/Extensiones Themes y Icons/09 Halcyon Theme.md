@@ -9,7 +9,7 @@
 - **Descripción:** *A dark blue theme for VS Code based on the Ayu Mirage theme*
 - **Version:** *0.2.25*
 - **Editor:** *brittanychiang*
-- [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode "https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode")
+- **[Vínculo de VS Marketplace:](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode "https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode")**
 
 ```plaintext
 # Id Extensión Vscode

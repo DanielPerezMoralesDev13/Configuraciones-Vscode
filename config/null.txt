@@ -141,12 +141,6 @@ xterm
 
 ---
 
-Nombre: Cold Horizon Theme
-ID: vincentfiestada.cold-horizon-vscode
-Descripción: The temperature turned down on the Horizon theme for Visual Studio Code
-Versión: 1.3.0
-Editor: Vincent Fiestada
-Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=vincentfiestada.cold-horizon-vscode
 
 
 Nombre: Nord
@@ -156,12 +150,7 @@ Versión: 0.19.0
 Editor: arcticicestudio
 Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code
 
-Nombre: Nord Deep
-ID: marlosirapuan.nord-deep
-Descripción: Another Nord-based vscode theme
-Versión: 0.1.625
-Editor: Marlos Irapuan
-Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep
+
 
 Nombre: Nord Wave
 ID: dnlytras.nord-wave
@@ -177,26 +166,11 @@ Versión: 0.5.0
 Editor: Joshua Azemoh
 Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai
 
-Nombre: Monokai Pro
-ID: monokai.theme-monokai-pro-vscode
-Descripción: Professional theme and matching icons, from the author of the original Monokai color scheme.
-Versión: 1.3.2
-Editor: monokai
-Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode
 
-Nombre: Ayu
-ID: teabyii.ayu
-Descripción: A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.
-Versión: 1.0.5
-Editor: teabyii
-Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=teabyii.ayu
 
-Nombre: Night Owl
-ID: sdras.night-owl
-Descripción: A VS Code theme for the night owls out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
-Versión: 2.0.1
-Editor: sarah.drasner
-Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=sdras.night-owl
+
+
+
 
 Nombre: Dracula Official
 ID: dracula-theme.theme-dracula

@@ -9,9 +9,9 @@
 - **Descripción:** *Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to - prototype queries and aggregations.*
 - **Versión:** `1.5.0`
 - **Editor:** *MongoDB*
-[*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode "https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode")
+- **[Vínculo de VS Marketplace:](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode "https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode")**
 
 ```plaintext
 # Id Extensión Vscode
-ms-azuretools.vscode-docker
+mongodb.mongodb-vscode
 ```
