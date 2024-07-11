@@ -1,0 +1,737 @@
+temas claros
+
+alabaster
+ashes_light
+atom_one_light
+ayu_light
+catppuccin_latte
+enfocado_light
+everforest_light
+github_light
+github_light_colorblind
+github_light_high_contrast
+github_light_tritanopia
+gruvbox_light
+gruvbox_material_hard_light
+gruvbox_material_medium_light
+high_contrast
+msx
+night_owlish_light
+noctis-lux
+nord_light
+papercolor_light
+papertheme
+pencil_light
+rose-pine-dawn
+solarized_dark
+solarized_light
+
+
+
+---
+
+temas oscuro
+
+afterglow
+alacritty_0_12
+ashes_dark
+base16_default_dark
+bluish
+breeze
+catppuccin_frappe
+catppuccin_macchiato
+catppuccin_mocha
+chicago95
+citylights
+Cobalt2
+dark_pastels
+deep_space
+doom_one
+dracula_plus
+enfocado_dark
+everforest_dark
+falcon
+flat_remix
+flexoki
+github_dark
+github_dark_dimmed
+google
+gnome_terminal
+gruvbox_dark
+gruvbox_material_hard_dark
+gruvbox_material_medium_dark
+hardhacker
+hatsunemiku
+horizon-dark
+inferno
+iris
+kanagawa_dragon
+kanagawa_wave
+konsole_linux
+low_contrast
+Mariana
+marine_dark
+material_theme
+meliora
+monokai
+monokai_pro
+moonlight_ii_vscode
+nightfox
+nord
+one_dark
+papercolor_dark
+pencil_dark
+rainbow
+remedy_dark
+rose-pine-moon
+snazzy
+seashells
+smoooooth
+solarized_osaka
+taerminal
+tango_dark
+tender
+terminal_app
+tomorrow_night
+tomorrow_night_bright
+ubuntu
+vesper
+wombat
+zenburn
+
+---
+
+recomendado
+
+alabaster_dark
+argonaut
+aura
+ayu_dark
+baitong
+blood_moon
+campbell
+carbonfox
+catppuccin_macchiato
+challenger_deep [x]
+cyber_punk_neon
+dark_pride
+dracula
+github_dark_colorblind
+github_dark_high_contrast
+github_dark_tritanopia [x]
+gotham [x]
+hyper
+iterm
+material_theme_mod
+midnight-haze [x]
+monokai_charcoal
+nightfly
+night_owl
+nordic
+oceanic_next
+omni [x]
+palenight
+pastel_dark
+rose-pine
+thelovelace
+tokyo-night
+tokyo-night-storm
+xterm
+
+
+---
+
+Nombre: Cold Horizon Theme
+ID: vincentfiestada.cold-horizon-vscode
+Descripción: The temperature turned down on the Horizon theme for Visual Studio Code
+Versión: 1.3.0
+Editor: Vincent Fiestada
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=vincentfiestada.cold-horizon-vscode
+
+
+Nombre: Nord
+ID: arcticicestudio.nord-visual-studio-code
+Descripción: An arctic, north-bluish clean and elegant Visual Studio Code theme.
+Versión: 0.19.0
+Editor: arcticicestudio
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code
+
+Nombre: Nord Deep
+ID: marlosirapuan.nord-deep
+Descripción: Another Nord-based vscode theme
+Versión: 0.1.625
+Editor: Marlos Irapuan
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=marlosirapuan.nord-deep
+
+Nombre: Nord Wave
+ID: dnlytras.nord-wave
+Descripción: Darker version of the awesome Nord theme
+Versión: 0.3.5
+Editor: Dimitrios Lytras
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=dnlytras.nord-wave
+
+Nombre: One Monokai Theme
+ID: azemoh.one-monokai
+Descripción: A cross between Monokai and One Dark theme
+Versión: 0.5.0
+Editor: Joshua Azemoh
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai
+
+Nombre: Monokai Pro
+ID: monokai.theme-monokai-pro-vscode
+Descripción: Professional theme and matching icons, from the author of the original Monokai color scheme.
+Versión: 1.3.2
+Editor: monokai
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode
+
+Nombre: Ayu
+ID: teabyii.ayu
+Descripción: A simple theme with bright colors and comes in three versions — dark, light and mirage for all day long comfortable work.
+Versión: 1.0.5
+Editor: teabyii
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=teabyii.ayu
+
+Nombre: Night Owl
+ID: sdras.night-owl
+Descripción: A VS Code theme for the night owls out there. Now introducing Light Owl theme for daytime usage. Decisions were based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
+Versión: 2.0.1
+Editor: sarah.drasner
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=sdras.night-owl
+
+Nombre: Dracula Official
+ID: dracula-theme.theme-dracula
+Descripción: Official Dracula Theme. A dark theme for many editors, shells, and more.
+Versión: 2.24.3
+Editor: Dracula Theme
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
+
+Nombre: Dracula At Night
+ID: bceskavich.theme-dracula-at-night
+Descripción: Dracula At Night — A Dracula fork, with a darker flavor
+Versión: 2.7.1
+Editor: bceskavich
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=bceskavich.theme-dracula-at-night
+
+Nombre: Material Theme Icons
+ID: Equinusocio.vsc-material-theme-icons
+Descripción: Material Theme Icons, the most epic icons theme for Visual Studio Code and Material Theme.
+Versión: 3.6.1
+Editor: Equinusocio
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme-icons
+
+Nombre: Material Theme
+ID: Equinusocio.vsc-material-theme
+Descripción: The most epic theme now for Visual Studio Code
+Versión: 34.4.0
+Editor: Equinusocio
+Vínculo de VS Marketplace: https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme
+
+---
+editar color tema
+
+@command:editor.action.inspectTMScopes
+
+scm.experimental.showHistoryGraph
+
+"scm.experimental.showHistoryGraph": true
+
+---
+
+top temas
+
+0xProto Nerd Font
+[Download](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/0xProto.zip "https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/0xProto.zip")
+
+previsualizacion
+[previsualizacion](https://www.programmingfonts.org/#oxproto "https://www.programmingfonts.org/#oxproto")
+
+---
+
+3270 Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/3270.zip
+
+previsualizacion
+https://www.programmingfonts.org/#font3270
+
+---
+
+Agave Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Agave.zip
+
+previsualizacion
+https://www.programmingfonts.org/#agave
+
+---
+
+AnonymousPro Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/AnonymousPro.zip
+
+previsualizacion
+https://www.programmingfonts.org/#anonymous-pro
+
+---
+
+Arimo Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Arimo.zip
+
+previsualizacion pendiente
+---
+
+
+AurulentSansMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/AurulentSansMono.zip
+
+previsualizacion
+https://www.programmingfonts.org/#aurulent
+
+---
+
+BigBlueTerminal Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/BigBlueTerminal.zip
+
+previsualizacion
+https://www.programmingfonts.org/#bigblue-terminal
+---
+
+BitstreamVeraSansMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/BitstreamVeraSansMono.zip
+
+previsualizacion
+https://www.programmingfonts.org/#bitstream-vera
+
+---
+
+IBMPlexMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/IBMPlexMono.zip
+
+previsualizacion
+https://www.programmingfonts.org/#plex-mono
+
+---
+
+CascadiaCode Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/CascadiaCode.zip
+
+
+previsualizacion
+https://www.programmingfonts.org/#cascadia-code
+---
+
+
+CascadiaMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/CascadiaMono.zip
+
+previsualizacion pendiente
+---
+
+ComicShannsMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/ComicShannsMono.zip
+
+previsualizacion pendiente
+---
+
+CommitMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/CommitMono.zip
+
+previsualizacion
+https://www.programmingfonts.org/#commit-mono
+
+---
+
+Cousine Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Cousine.zip
+
+previsualizacion
+https://www.programmingfonts.org/#cousine
+---
+
+D2Coding Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/D2Coding.zip
+
+previsualizacion
+https://www.programmingfonts.org/#d2coding
+---
+
+DaddyTimeMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/DaddyTimeMono.zip
+
+previsualizacion
+https://www.programmingfonts.org/#daddytimemono
+---
+
+DejaVuSansMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/DejaVuSansMono.zip
+previsualizacion
+https://www.programmingfonts.org/#dejavu
+---
+
+
+DroidSansMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/DroidSansMono.zip
+
+previsualizacion
+https://www.programmingfonts.org/#droid-sans
+
+---
+
+EnvyCodeR Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/EnvyCodeR.zip
+
+previsualizacion
+https://www.programmingfonts.org/#envy-code-r
+
+---
+
+FantasqueSansMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FantasqueSansMono.zip
+
+previsualizacion
+https://www.programmingfonts.org/#fantasque-sans
+---
+
+FiraCode Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraCode.zip
+
+previsualizacion
+https://www.programmingfonts.org/#firacode
+
+---
+
+FiraMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/FiraMono.zip
+
+previsualizacion
+https://www.programmingfonts.org/#fira
+---
+
+GeistMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/GeistMono.zip
+
+previsualizacion
+https://www.programmingfonts.org/#geist
+---
+
+Go-Mono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Go-Mono.zip
+previsualizacion
+https://www.programmingfonts.org/#go-mono
+---
+
+Gohu Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Gohu.zip
+previsualizacion
+https://www.programmingfonts.org/#gohufont-14
+---
+
+Hack Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hack.zip
+previsualizacion
+https://www.programmingfonts.org/#hack
+---
+
+Hasklig Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hasklig.zip
+
+previsualizacion
+https://www.programmingfonts.org/#hasklig
+---
+
+HeavyData Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/HeavyData.zip
+previsualizacion pendiente
+
+---
+
+Hermit Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hermit.zip
+previsualizacion
+https://www.programmingfonts.org/#hermit
+---
+
+iA-Writer Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/iA-Writer.zip
+previsualizacion
+https://www.programmingfonts.org/#ia-writer-mono
+---
+
+Inconsolata Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Inconsolata.zip
+previsualizacion
+https://www.programmingfonts.org/#inconsolata
+---
+
+InconsolataGo Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/InconsolataGo.zip
+previsualizacion
+https://www.programmingfonts.org/#inconsolata-go
+---
+
+InconsolataLGC Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/InconsolataLGC.zip
+previsualizacion pendiente
+
+---
+
+IntelOneMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/IntelOneMono.zip
+previsualizacion
+https://www.programmingfonts.org/#intel-one-mono
+---
+
+---
+
+Iosevka Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Iosevka.zip
+previsualizacion
+https://www.programmingfonts.org/#iosevka
+---
+
+IosevkaTerm Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/IosevkaTerm.zip
+previsualizacion pendiente
+
+---
+
+
+IosevkaTermSlab Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/IosevkaTermSlab.zip
+previsualizacion pendiente
+
+---
+
+
+JetBrainsMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/JetBrainsMono.zip
+previsualizacion
+https://www.programmingfonts.org/#jetbrainsmono
+---
+
+
+Lekton Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Lekton.zip
+previsualizacion
+https://www.programmingfonts.org/#lekton
+---
+
+
+LiberationMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/LiberationMono.zip
+previsualizacion
+https://www.programmingfonts.org/#liberation
+---
+
+
+Lilex Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Lilex.zip
+previsualizacion
+https://www.programmingfonts.org/#lilex
+---
+
+
+MartianMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/MartianMono.zip
+
+previsualizacion
+https://www.programmingfonts.org/#martian-mono
+---
+
+
+Meslo Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Meslo.zip
+previsualizacion
+https://www.programmingfonts.org/#meslo
+---
+
+
+Monaspace Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Monaspace.zip
+previsualizacion
+https://www.programmingfonts.org/#monaspace-neon
+---
+
+
+Monofur Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Monofur.zip
+previsualizacion
+https://www.programmingfonts.org/#monofur
+---
+
+
+Monoid Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Monoid.zip
+previsualizacion
+https://www.programmingfonts.org/#monoid
+---
+
+
+Mononoki Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Mononoki.zip
+previsualizacion
+https://www.programmingfonts.org/#mononoki
+---
+
+
+MPlus Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/MPlus.zip
+previsualizacion
+https://www.programmingfonts.org/#mplus
+---
+
+
+Noto Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Noto.zip
+previsualizacion
+https://www.programmingfonts.org/#noto
+---
+
+
+OpenDyslexic Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/OpenDyslexic.zip
+previsualizacion
+https://www.programmingfonts.org/#opendyslexic
+---
+
+
+Overpass Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Overpass.zip
+previsualizacion
+https://www.programmingfonts.org/#overpass
+---
+
+
+ProFont Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/ProFont.zip
+previsualizacion
+https://www.programmingfonts.org/#profont
+---
+
+
+ProggyClean Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/ProggyClean.zip
+previsualizacion
+https://www.programmingfonts.org/#proggy-clean
+---
+
+
+Recursive Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Recursive.zip
+previsualizacion
+https://www.programmingfonts.org/#recursive-mono-linear
+---
+
+
+RobotoMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/RobotoMono.zip
+previsualizacion
+https://www.programmingfonts.org/#roboto
+---
+
+
+ShareTechMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/ShareTechMono.zip
+previsualizacion
+https://www.programmingfonts.org/#share-tech
+---
+
+
+SourceCodePro Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/SourceCodePro.zip
+previsualizacion
+https://www.programmingfonts.org/#source-code-pro
+---
+
+
+SpaceMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/SpaceMono.zip
+previsualizacion
+https://www.programmingfonts.org/#space
+---
+
+
+NerdFontsSymbolsOnly Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/NerdFontsSymbolsOnly.zip
+previsualizacion pendiente
+
+---
+
+
+Terminus Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Terminus.zip
+previsualizacion
+https://www.programmingfonts.org/#terminus
+---
+
+
+Tinos Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Tinos.zip
+previsualizacion pendiente
+
+---
+
+
+Ubuntu Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Ubuntu.zip
+previsualizacion pendiente
+
+---
+UbuntuMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/UbuntuMono.zip
+previsualizacion
+https://www.programmingfonts.org/#ubuntu
+---
+
+
+UbuntuSans Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/UbuntuSans.zip
+previsualizacion pendiente
+
+---
+
+
+VictorMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/VictorMono.zip
+previsualizacion
+https://www.programmingfonts.org/#victor-mono
+---
+
+
+ZedMono Nerd Font
+https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/ZedMono.zip
+previsualizacion pendiente
+
+---
+
+monaspace
+pagina Official https://monaspace.githubnext.com/
+
+repositori Official de github https://github.com/githubnext/monaspace#monaspace
+
+link github releases https://github.com/githubnext/monaspace/releases/tag/v1.101
+link de descarga https://github.com/githubnext/monaspace/releases/download/v1.101/monaspace-v1.101.zip
+---
+
+geist-font
+
+pagina Official https://vercel.com/font
+repositori Official de gihtub  https://github.com/vercel/geist-font/
+link relases gihtub https://github.com/vercel/geist-font/releases/tag/1.3.0
+
+link de descarga de Geist https://github.com/vercel/geist-font/releases/download/1.3.0/Geist-1.3.0.zip
+link de descarga de  GeistMono https://github.com/vercel/geist-font/releases/download/1.3.0/GeistMono-1.3.0.zip
+---
+
+pagina de fonts https://coding-fonts.css-trickz.com/
+
+
+---
+
+
+font para cuando haga un juego
+https://www.fontspace.com/search?q=zelda
+
+cd fonts
+mv *.ttf *.otf /usr/share/fonts/
+
+---
+
+https://alenlobeiras.com/projects/tamago

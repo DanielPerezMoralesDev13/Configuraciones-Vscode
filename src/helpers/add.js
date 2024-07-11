@@ -1,3 +1,7 @@
+// Autor: Daniel Benjamin Perez Morales
+// GitHub: https://github.com/DanielPerezMoralesDev13
+// Correo electrónico: danielperezdev@proton.me
+
 // Esto se llama JSDoc
 /**
 # Add 2 numbers together

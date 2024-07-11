@@ -1,6 +1,6 @@
 <!-- Autor: Daniel Benjamin Perez Morales -->
 <!-- GitHub: https://github.com/DanielPerezMoralesDev13 -->
-<!-- Correo electrónico: danielperezdev@proton.me  -->
+<!-- Correo electrónico: danielperezdev@proton.me -->
 # ***View: Toggle Status Bar Visibility***
 
 ```json
@@ -28,7 +28,7 @@
 }
 ```
 
-## ***Extensiones***
+## ***Extensiónes***
 
 - **Name:** *advanced-new-file*
 - **Id:** *patbenatar.advanced-new-file*
@@ -38,19 +38,19 @@
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file "https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file")
 
 ```text
-# Id Extension
+# Id Extensión
 patbenatar.advanced-new-file
 ```
 
 ## ***Keyboard Shortcuts***
 
 **Title:** *Advanced New File*
-**ID:** *extension.advancedNewFile*
+**ID:** *Extensión.advancedNewFile*
 
 ```json
 {
   "key": "ctrl+alt+n",
-  "command": "extension.advancedNewFile"
+  "command": "Extensión.advancedNewFile"
 }
 ```
 
@@ -64,28 +64,28 @@ patbenatar.advanced-new-file
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode")
 
 ```text
-# Id Extension
+# Id Extensión
 esbenp.prettier-vscode
 ```
 
 ---
 
-## ***Python Extensiones***
+## ***Python Extensiónes***
 
 - **Name:** *Python*
 - **Id:** *ms-python.python*
-- **Description:** *Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.*
+- **Description:** *Python language support with Extensión access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more.*
 - **Version:** `2024.4.0`
 - [*Publisher: Microsoft*](https://marketplace.visualstudio.com/items?itemName=ms-python.python "https://marketplace.visualstudio.com/items?itemName=ms-python.python")
 
 ```text
-# Id Extension Vscode
+# Id Extensión Vscode
 ms-python.python
 ```
 
-## ***Keyboard Shortcuts Python Extensiones***
+## ***Keyboard Shortcuts Python Extensiónes***
 
-**Title:** *Comandos de la extension*
+**Title:** *Comandos de la Extensión*
 
 ```text
 @ext:ms-python.python
@@ -101,7 +101,7 @@ ms-python.python
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance")
 
 ```text
-# Id Extension
+# Id Extensión
 ms-python.vscode-pylance
 ```
 
@@ -109,19 +109,19 @@ ms-python.vscode-pylance
 
 - **Name:** *Python Debugger*
 - **Id:** *ms-python.debugpy*
-- **Description:** *Python Debugger extension using debugpy.*
+- **Description:** *Python Debugger Extensión using debugpy.*
 - **Version:** `2024.5.10961012`
 - **Publisher:** *Microsoft*
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy")
 
 ```text
-# Id Extension
+# Id Extensión
 ms-python.debugpy
 ```
 
 ---
 
-## ***Javascript Extensiones***
+## ***Javascript Extensiónes***
 
 - **Name:** *JavaScript (ES6) code snippets*
 - **Id:** *xabikos.JavaScriptSnippets*
@@ -131,7 +131,7 @@ ms-python.debugpy
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets "https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets")
 
 ```text
-# Id Extension
+# Id Extensión
 xabikos.JavaScriptSnippets
 ```
 
@@ -153,7 +153,7 @@ npm i -D eslint -->
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint "https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint")
 
 ```text
-# Id Extension
+# Id Extensión
 dbaeumer.vscode-eslint
 ```
 
@@ -167,7 +167,7 @@ dbaeumer.vscode-eslint
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense "https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense")
 
 ```text
-# Id Extension
+# Id Extensión
 christian-kohler.path-intellisense
 ```
 
@@ -181,7 +181,7 @@ christian-kohler.path-intellisense
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log "https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log")
 
 ```text
-# Id Extension
+# Id Extensión
 ChakrounAnas.turbo-console-log
 ```
 
@@ -198,7 +198,7 @@ tienes que seleccionar la funcion y darle en icono de bombilla -->
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster "https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster")
 
 ```text
-# Id Extension
+# Id Extensión
 sburg.vscode-javascript-booster
 ```
 
@@ -218,17 +218,17 @@ value javascriptreact -->
 
 - **Name:** *ES7+ React/Redux/React-Native snippets*
 - **Id:** *dsznajder.es7-react-js-snippets*
-- **Description:** *Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.*
+- **Description:** *Extensións for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.*
 - **Version:** `4.4.3`
 - **Publisher:** *dsznajder*
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets "https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets")
 
 ```text
-# Id Extension
+# Id Extensión
 dsznajder.es7-react-js-snippets
 ```
 
-## ***Keyboard Shortcuts Javascript Extensiones***
+## ***Keyboard Shortcuts Javascript Extensiónes***
 
 **Title:** *Snippet search*
 **ID:** *reactSnippets.search*
@@ -243,7 +243,7 @@ dsznajder.es7-react-js-snippets
 
 ---
 
-## ***Html y Css extensiones***
+## ***Html y Css Extensiónes***
 
 **Nombre:** *Image preview*
 **ID:** *kisstkondoros.vscode-gutter-preview*
@@ -253,7 +253,7 @@ dsznajder.es7-react-js-snippets
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview "https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview")
 
 ```text
-# Id Extension
+# Id Extensión
 kisstkondoros.vscode-gutter-preview
 ```
 
@@ -267,7 +267,7 @@ kisstkondoros.vscode-gutter-preview
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight "https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight")
 
 ```text
-# Id Extension
+# Id Extensión
 naumovs.color-highlight
 ```
 
@@ -281,7 +281,7 @@ naumovs.color-highlight
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek "https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek")
 
 ```text
-# Id Extension
+# Id Extensión
 pranaygp.vscode-css-peek
 ```
 
@@ -295,7 +295,7 @@ pranaygp.vscode-css-peek
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware")code-spell-checker>
 
 ```text
-# Id Extension
+# Id Extensión
 streetsidesoftware.code-spell-checker
 ```
 
@@ -309,7 +309,7 @@ streetsidesoftware.code-spell-checker
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css "https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css")
 
 ```text
-# Id Extension
+# Id Extensión
 ecmel.vscode-html-css
 ```
 
@@ -324,7 +324,7 @@ ecmel.vscode-html-css
 - [*Publisher: CodeZombie*](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore "https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore")
 
 ```text
-# Id Extension Vscode
+# Id Extensión Vscode
 codezombiech.gitignore
 ```
 
@@ -338,7 +338,7 @@ codezombiech.gitignore
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense "https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense")
 
 ```text
-# Id Extension
+# Id Extensión
 christian-kohler.npm-intellisense
 ```
 
@@ -352,7 +352,7 @@ christian-kohler.npm-intellisense
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens "https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens")
 
 ```text
-# Id Extension
+# Id Extensión
 pflannery.vscode-versionlens
 ```
 
@@ -366,7 +366,7 @@ pflannery.vscode-versionlens
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost "https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost")
 
 ```text
-# Id Extension
+# Id Extensión
 wix.vscode-import-cost
 ```
 
@@ -382,7 +382,7 @@ wix.vscode-import-cost
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss "https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss")
 
 ```text
-# Id Extension
+# Id Extensión
 bradlc.vscode-tailwindcss
 ```
 
@@ -396,7 +396,7 @@ bradlc.vscode-tailwindcss
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind "https://marketplace.visualstudio.com/items?itemName=heybourn.headwind")
 
 ```text
-# Id Extension
+# Id Extensión
 heybourn.headwind
 ```
 
@@ -425,7 +425,7 @@ heybourn.headwind
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=bierner "https://marketplace.visualstudio.com/items?itemName=bierner")markdown-preview-github-styles>
 
 ```text
-# Id Extension
+# Id Extensión
 bierner.markdown-preview-github-styles
 ```
 
@@ -439,7 +439,7 @@ bierner.markdown-preview-github-styles
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced "https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced")
 
 ```text
-# Id Extension
+# Id Extensión
 shd101wyy.markdown-preview-enhanced
 ```
 
@@ -453,7 +453,7 @@ shd101wyy.markdown-preview-enhanced
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one "https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one")
 
 ```text
-# Id Extension
+# Id Extensión
 yzhang.markdown-all-in-one
 ```
 
@@ -467,7 +467,7 @@ yzhang.markdown-all-in-one
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint "https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint")
 
 ```text
-# Id Extension
+# Id Extensión
 DavidAnson.vscode-markdownlint
 ```
 
@@ -483,7 +483,7 @@ DavidAnson.vscode-markdownlint
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client "https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client")
 
 ```text
-# Id Extension
+# Id Extensión
 bmewburn.vscode-intelephense-client
 ```
 
@@ -497,7 +497,7 @@ bmewburn.vscode-intelephense-client
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt "https://marketplace.visualstudio.com/items?itemName=kokororin.vscode-phpfmt")
 
 ```text
-# Id Extension
+# Id Extensión
 kokororin.vscode-phpfmt
 ```
 
@@ -511,7 +511,7 @@ kokororin.vscode-phpfmt
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480 "https://marketplace.visualstudio.com/items?itemName=amiralizadeh9480")laravel-extra-intellisense>
 
 ```text
-# Id Extension
+# Id Extensión
 amiralizadeh9480.laravel-extra-intellisense
 ```
 
@@ -525,7 +525,7 @@ amiralizadeh9480.laravel-extra-intellisense
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade "https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade")
 
 ```text
-# Id Extension
+# Id Extensión
 onecentlin.laravel-blade
 ```
 
@@ -539,7 +539,7 @@ onecentlin.laravel-blade
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=austenc.laravel-blade-spacers "https://marketplace.visualstudio.com/items?itemName=austenc.laravel-blade-spacers")
 
 ```text
-# Id Extension
+# Id Extensión
 austenc.laravel-blade-spacer
 ```
 
@@ -553,7 +553,7 @@ austenc.laravel-blade-spacer
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator "https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator")
 
 ```text
-# Id Extension
+# Id Extensión
 SirTori.indenticator
 ```
 
@@ -569,7 +569,7 @@ SirTori.indenticator
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager "https://marketplace.visualstudio.com/items?itemName=felipecaputo.git-project-manager")
 
 ```text
-# Id Extension
+# Id Extensión
 felipecaputo.git-project-manager
 ```
 
@@ -583,7 +583,7 @@ felipecaputo.git-project-manager
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory "https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory")
 
 ```text
-# Id Extension
+# Id Extensión
 donjayamanne.githistory
 ```
 
@@ -597,7 +597,7 @@ donjayamanne.githistory
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame "https://marketplace.visualstudio.com/items?itemName=waderyan.gitblame")
 
 ```text
-# Id Extension
+# Id Extensión
 waderyan.gitblame
 ```
 
@@ -611,7 +611,7 @@ waderyan.gitblame
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink "https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink")
 
 ```text
-# Id Extension
+# Id Extensión
 qezhu.gitlink
 ```
 
@@ -625,7 +625,7 @@ qezhu.gitlink
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators "https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators")
 
 ```text
-# Id Extension
+# Id Extensión
 lamartire.git-indicators
 ```
 
@@ -639,7 +639,7 @@ lamartire.git-indicators
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens")
 
 ```text
-# Id Extension
+# Id Extensión
 eamodio.gitlens
 ```
 
@@ -653,7 +653,7 @@ eamodio.gitlens
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github")
 
 ```text
-# Id Extension
+# Id Extensión
 GitHub.vscode-pull-request-github
 ```
 
@@ -667,7 +667,7 @@ GitHub.vscode-pull-request-github
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub "https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub")
 
 ```text
-# Id Extension
+# Id Extensión
 GitHub.remotehub
 ```
 
@@ -681,7 +681,7 @@ GitHub.remotehub
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces "https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces")
 
 ```text
-# Id Extension
+# Id Extensión
 GitHub.codespaces
 ```
 
@@ -695,7 +695,7 @@ GitHub.codespaces
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions "https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions")
 
 ```text
-# Id Extension
+# Id Extensión
 github.vscode-github-actions
 ```
 
@@ -709,7 +709,7 @@ github.vscode-github-actions
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme "https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme")
 
 ```text
-# Id Extension
+# Id Extensión
 GitHub.github-vscode-theme
 ```
 
@@ -725,7 +725,7 @@ GitHub.github-vscode-theme
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client "https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client")
 
 ```text
-# Id Extension
+# Id Extensión
 rangav.vscode-thunder-client
 ```
 
@@ -741,7 +741,7 @@ rangav.vscode-thunder-client
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim "https://marketplace.visualstudio.com/items?itemName=vscodevim.vim")
 
 ```text
-# Id Extension
+# Id Extensión
 vscodevim.vim
 ```
 
@@ -755,7 +755,7 @@ vscodevim.vim
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim "https://marketplace.visualstudio.com/items?itemName=vintharas.learn-vim")
 
 ```text
-# Id Extension
+# Id Extensión
 vintharas.learn-vim // No instalada
 ```
 
@@ -771,7 +771,7 @@ vintharas.learn-vim // No instalada
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode "https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode")
 
 ```text
-# Id Extension
+# Id Extensión
 TabNine.tabnine-vscode
 ```
 
@@ -786,7 +786,7 @@ TabNine.tabnine-vscode
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot")
 
 ```text
-# Id Extension
+# Id Extensión
 GitHub.copilot
 ```
 
@@ -800,7 +800,7 @@ GitHub.copilot
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat "https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat")
 
 ```text
-# Id Extension
+# Id Extensión
 GitHub.copilot-chat
 ```
 
@@ -816,7 +816,7 @@ GitHub.copilot-chat
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager "https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager")
 
 ```text
-# Id Extension
+# Id Extensión
 alefragnani.project-manager
 ```
 
@@ -830,7 +830,7 @@ alefragnani.project-manager
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock "https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock")
 
 ```text
-# Id Extension
+# Id Extensión
 johnpapa.vscode-peacock
 ```
 
@@ -852,7 +852,7 @@ johnpapa.vscode-peacock
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server> "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server>")
 
 ```text
-# Id Extension
+# Id Extensión
 ms-vscode.live-server
 ```
 
@@ -866,7 +866,7 @@ ms-vscode.live-server
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=Wscats.cors-browser "https://marketplace.visualstudio.com/items?itemName=Wscats.cors-browser")
 
 ```text
-# Id Extension
+# Id Extensión
 Wscats.cors-browser
 ```
 
@@ -892,7 +892,7 @@ Wscats.cors-browser
 [*Vínculo de VS Marketplace*](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night "https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night")
 
 ```text
-# Id Extension
+# Id Extensión
 enkia.tokyo-night
 ```
 
@@ -906,7 +906,7 @@ enkia.tokyo-night
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming "https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming")
 
 ```text
-# Id Extension
+# Id Extensión
 johnpapa.winteriscoming
 ```
 
@@ -920,7 +920,7 @@ johnpapa.winteriscoming
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme "https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme")
 
 ```text
-# Id Extension
+# Id Extensión
 zhuangtongfa.Material-theme
 ```
 
@@ -934,7 +934,7 @@ zhuangtongfa.Material-theme
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark "https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark")
 
 ```text
-# Id Extension
+# Id Extensión
 akamud.vscode-theme-onedark
 ```
 
@@ -948,7 +948,7 @@ akamud.vscode-theme-onedark
 [*Vínculo de VS Marketplace:*](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple "https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple")
 
 ```text
-# Id Extension
+# Id Extensión
 ahmadawais.shades-of-purple
 ```
 
@@ -962,7 +962,7 @@ ahmadawais.shades-of-purple
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark "https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark")
 
 ```text
-# Id Extension
+# Id Extensión
 uloco.theme-bluloco-dark
 ```
 
@@ -976,7 +976,7 @@ uloco.theme-bluloco-dark
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-sapphire "https://marketplace.visualstudio.com/items?itemName=Tyriar.theme-sapphire")
 
 ```text
-# Id Extension
+# Id Extensión
 Tyriar.theme-sapphire
 ```
 
@@ -990,7 +990,7 @@ Tyriar.theme-sapphire
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode "https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode")
 
 ```text
-# Id Extension
+# Id Extensión
 brittanychiang.halcyon-vscode
 ```
 
@@ -1004,7 +1004,7 @@ brittanychiang.halcyon-vscode
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons "https://marketplace.visualstudio.com/items?itemName=miguelsolorio.fluent-icons")
 
 ```text
-# Id Extension
+# Id Extensión
 miguelsolorio.fluent-icons
 ```
 
@@ -1018,7 +1018,7 @@ miguelsolorio.fluent-icons
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme "https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme")
 
 ```text
-# Id Extension
+# Id Extensión
 PKief.material-icon-theme
 ```
 
@@ -1032,7 +1032,7 @@ PKief.material-icon-theme
 [*VS Marketplace Link*](https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols "https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols")
 
 ```text
-# Id Extension
+# Id Extensión
 miguelsolorio.symbols
 ```
 
@@ -1193,19 +1193,19 @@ o ctrl + n -->
 
 ---
 
-<!-- Te creara un directorio con un fichero extensions.json
+<!-- Te creara un directorio con un fichero Extensións.json
 
-/home/d4nitrix13/Desktop/configuracionVscode/.vscode/extensions.json
+/home/d4nitrix13/Desktop/configuracionVscode/.vscode/Extensións.json
 
-Debes colocar el id de la extension y ponerlo entre comillas, si quieres agregar mas ponle seguido de una coma -->
+Debes colocar el id de la Extensión y ponerlo entre comillas, si quieres agregar mas ponle seguido de una coma -->
 
-**Title:** *Configure Recommended Extensions (Workspace Folder)*
-**ID:** *workbench.extensions.action.configureWorkspaceFolderRecommendedExtensions*
+**Title:** *Configure Recommended Extensións (Workspace Folder)*
+**ID:** *workbench.Extensións.action.configureWorkspaceFolderRecommendedExtensións*
 
 ```json
 {
   "key": "",
-  "command": "workbench.extensions.action.configureWorkspaceFolderRecommendedExtensions"
+  "command": "workbench.Extensións.action.configureWorkspaceFolderRecommendedExtensións"
 }
 ```
 
