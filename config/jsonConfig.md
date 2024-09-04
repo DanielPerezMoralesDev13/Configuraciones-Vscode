@@ -7,15 +7,13 @@
 ```bash
 {
   "workbench.productIconTheme": "fluent-icons",
-  // Tema de iconos del producto. Valor por defecto: "file-icons". 
-  // Descripción: Establece el tema de iconos del producto como "fluent-icons".
-  "workbench.iconTheme": "symbols",
   // Tema de iconos. Valor por defecto: "vs-seti". 
   // Descripción: Define el tema de iconos utilizado en la interfaz de usuario.
   "symbols.hidesExplorerArrows": false,
   // Oculta las flechas del explorador. Valor por defecto: false. 
-  // Descripción: Indica si se deben ocultar las flechas de navegación en el explorador de ficheros.
-  "editor.fontFamily": "'Cascadia Code NF', 'FiraCode Nerd Font Mono SemBd', 'UbuntuMono Nerd Font Mono', 'Droid Sans Mono', 'monospace'",
+  // Descripción: Indica si se deben ocultar las flechas de navegación en el explorador de Ficheros.
+  // 'Cascadia Code NF', 'FiraCode Nerd Font Mono SemBd', 'UbuntuMono Nerd Font Mono', 'Droid Sans Mono', 'monospace'
+  "editor.fontFamily": "'Cascadia Code NF', 'CaskaydiaCove Nerd Font Mono', 'Cascadia Mono NF','GeistMono Nerd Font Mono' , 'ZedMono Nerd Font Mono', 'VictorMono Nerd Font Mono', 'UbuntuSansMono Nerd Font Mono', 'UbuntuMono Nerd Font Mono','Ubuntu Nerd Font','Tinos Nerd Font', 'Terminess Nerd Font Mono','Symbols Nerd Font Mono', 'SpaceMono Nerd Font Mono','Source Code Pro Nerd Font Mono','ShureTechMono Nerd Font Mono','RobotoMono Nerd Font Mono','RecMonoSmCasual Nerd Font Mono','ProggyClean Nerd Font Mono','ProFont IIx Nerd Font Mono','OverpassM Nerd Font Mono','OpenDyslexicM Nerd Font Mono','NotoSansM Nerd Font Mono','M+CodeLat60 Nerd Font Mono','Mononoki Nerd Font Mono','Monoid Nerd Font Mono','Monofur Nerd Font Mono','Monaspace Argon', 'Monaspace Radon', 'Monaspace Neon', 'Monaspace Xenon', 'Monaspace Krypton', 'Monaspace Boron', 'MesloLGL Nerd Font Mono','MartianMono Nerd Font Mono','Lilex Nerd Font Mono','Liberation Mono','Lekton Nerd Font Mono','JetBrainsMono Nerd Font Mono','IosevkaTermSlab Nerd Font Mono','IosevkaTerm Nerd Font Mono','Iosevka Nerd Font Mono','IntoneMono Nerd Font Mono','Inconsolata LGC Nerd Font Mono','InconsolataGo Nerd Font Mono','Inconsolata Nerd Font Mono','iMWritingMono Nerd Font','Hurmit Nerd Font Mono', 'Hasklug Nerd Font Mono', 'Hack Nerd Font Mono','GohuFont 14 Nerd Font Mono','Go Mono for Powerline' ,'GeistMono Nerd Font Mono','FiraCode Nerd Font Mono SemBd', 'FantasqueSansM Nerd Font Mono','EnvyCodeR Nerd Font Mono', 'DroidSansM Nerd Font Mono','DejaVu Sans Mono','DaddyTimeMono Nerd Font', 'D2CodingLigature Nerd Font Mono', 'Cousine Nerd Font Mono', 'BitstromWera Nerd Font Mono', 'ComicShannsMono Nerd Font','Agave Nerd Font Mono', '0xProto Nerd Font Mono', 'BigBlueTerm437 Nerd Font Mono', 'AurulentSansM Nerd Font Mono', 'Anonymous Pro for Powerline', 'IBM 3270 Semi\\-Condensed', 'Arimo Nerd Font', 'HeavyData Nerd Font Propo', '3270 Nerd Font Mono'",
   // Familia de fuentes del editor de código. Valor por defecto: "Menlo, Monaco, 'Courier New', monospace". 
   // Descripción: Establece la familia de fuentes utilizada en el editor de código.
   "editor.fontLigatures": true,
@@ -46,14 +44,14 @@
   // Parpadeo del cursor en el terminal integrado. Valor por defecto: true. 
   // Descripción: Controla si el cursor en el terminal integrado debe parpadear.
   "advancedNewFile.exclude": {},
-  // Exclusión de ficheros o carpetas al crear nuevos ficheros. Valor por defecto: {}. 
-  // Descripción: Configura qué ficheros o carpetas se deben excluir al crear nuevos ficheros utilizando la extensión Advanced New File.
+  // Exclusión de Ficheros o carpetas al crear nuevos Ficheros. Valor por defecto: {}. 
+  // Descripción: Configura qué Ficheros o carpetas se deben excluir al crear nuevos Ficheros utilizando la extensión Advanced New File.
   "workbench.startupEditor": "newUntitledFile",
   // Tipo de editor que se abre al iniciar el entorno de trabajo. Valor por defecto: "welcomePageInEmptyWorkbench". 
   // Descripción: Establece el tipo de editor que se abrirá al iniciar el entorno de trabajo.
   "files.defaultLanguage": "python",
-  // Lenguaje predeterminado para los nuevos ficheros. Valor por defecto: "". 
-  // Descripción: Establece el lenguaje predeterminado que se utilizará para los nuevos ficheros creados.
+  // Lenguaje predeterminado para los nuevos Ficheros. Valor por defecto: "". 
+  // Descripción: Establece el lenguaje predeterminado que se utilizará para los nuevos Ficheros creados.
   "editor.linkedEditing": true,
   // Edición vinculada en el editor de código. Valor por defecto: false. 
   // Descripción: Habilita la edición vinculada, que permite editar simultáneamente ocurrencias de la misma variable o símbolo.
@@ -69,8 +67,8 @@
     "source.fixAll": "explicit",
     "source.organizeImports": "explicit"
   },
-  // Acciones que se deben realizar al guardar un fichero. Valor por defecto: {}. 
-  // Descripción: Configura las acciones automáticas que se deben realizar al guardar un fichero.
+  // Acciones que se deben realizar al guardar un Fichero. Valor por defecto: {}. 
+  // Descripción: Configura las acciones automáticas que se deben realizar al guardar un Fichero.
   "markdown-preview-github-styles.lightTheme": "dark",
   // Tema claro para el estilo de vista previa de Markdown. Valor por defecto: "github-light". 
   // Descripción: Configura el tema claro que se utilizará en la vista previa de Markdown.
@@ -83,8 +81,8 @@
   "[jsonc]": {
     "editor.defaultFormatter": "vscode.json-language-features"
   },
-  // Formateador predeterminado para ficheros JSON. Valor por defecto: "". 
-  // Descripción: Configura el formateador predeterminado que se utilizará para ficheros con extensión .json.
+  // Formateador predeterminado para Ficheros JSON. Valor por defecto: "". 
+  // Descripción: Configura el formateador predeterminado que se utilizará para Ficheros con extensión .json.
   "files.exclude": {
     "**/.git": false,
     "**/.svn": false,
@@ -93,8 +91,8 @@
     "**/.DS_Store": false,
     "**/node_modules": false
   },
-  // Exclusión de ficheros o carpetas del explorador de ficheros. Valor por defecto: {}. 
-  // Descripción: Configura qué ficheros o carpetas se deben excluir de la vista del explorador de ficheros.
+  // Exclusión de Ficheros o carpetas del explorador de Ficheros. Valor por defecto: {}. 
+  // Descripción: Configura qué Ficheros o carpetas se deben excluir de la vista del explorador de Ficheros.
   "[html]": {
     "editor.defaultFormatter": "vscode.html-language-features"
   },
@@ -102,7 +100,8 @@
     "editor.defaultFormatter": "vscode.css-language-features"
   },
   "[javascript]": {
-    "editor.defaultFormatter": "vscode.typescript-language-features"
+    // "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    // "editor.defaultFormatter": "dbaeumer.vscode-eslint"
   },
   "[markdown]": {
     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
@@ -122,9 +121,6 @@
   "editor.language.colorizedBracketPairs": [],
   "editor.bracketPairColorization.enabled": true,
   "editor.autoClosingBrackets": "languageDefined",
-  // Pares de corchetes con colores personalizados. Valor por defecto: []. 
-  // Descripción: Configura los colores que se utilizarán para resaltar los pares de corchetes en el editor de código.
-  "workbench.colorTheme": "One Dark Pro Darker",
   // Tema de color de la interfaz de usuario. Valor por defecto: "Default Dark+". 
   // Descripción: Establece el tema de color utilizado en la interfaz de usuario.
   "oneDarkPro.bold": true,
@@ -140,8 +136,8 @@
   // Estilo Markdown en el tema One Dark Pro. Valor por defecto: false. 
   // Descripción: Habilita o deshabilita estilos específicos de Markdown en el tema One Dark Pro.
   "workbench.editor.languageDetection": true,
-  // Detección automática del lenguaje del fichero en el editor. Valor por defecto: true. 
-  // Descripción: Controla si se debe detectar automáticamente el lenguaje del fichero abierto en el editor.
+  // Detección automática del lenguaje del Fichero en el editor. Valor por defecto: true. 
+  // Descripción: Controla si se debe detectar automáticamente el lenguaje del Fichero abierto en el editor.
   "telemetry.telemetryLevel": "off",
   // Nivel de telemetría. Valor por defecto: "on". 
   // Descripción: Controla la cantidad de datos de telemetría que se envían a los servidores de Microsoft.
@@ -149,7 +145,7 @@
   "diffEditor.renderIndicators": false,
   // Esta configuración desactiva los indicadores en el editor de diferencias.
   "editor.minimap.enabled": true,
-  // Esta configuración desactiva o activa el minimapa en el editor de código. La minimapa muestra una vista de desplazamiento de todo el fichero.
+  // Esta configuración desactiva o activa el minimapa en el editor de código. La minimapa muestra una vista de desplazamiento de todo el Fichero.
   "editor.minimap.side": "left",
   // Esta configuración configura la posición del minimapa en el lado izquierdo del editor de código.
   "workbench.statusBar.visible": true,
@@ -160,18 +156,18 @@
   "workbench.sideBar.location": "right",
   // Esta configuración configura la ubicación de la barra lateral en el lado derecho de la interfaz de usuario.
   "breadcrumbs.enabled": false,
-  // Esta configuración desactiva las migas de pan en la interfaz de usuario. Las migas de pan muestran la ruta del fichero actual.
+  // Esta configuración desactiva las migas de pan en la interfaz de usuario. Las migas de pan muestran la ruta del Fichero actual.
   "editor.cursorSmoothCaretAnimation": "on",
   // Esta configuración activa la animación suave del cursor en el editor de código.
   "explorer.openEditors.visible": 10,
   // Esta configuración define el número máximo de editores abiertos visibles en el explorador como 10.
   // Configuración de las pestañas
   "workbench.editor.showIcons": true,
-  // Esta configuración activa la visualización de iconos en las pestañas de los ficheros en la interfaz de usuario.
+  // Esta configuración activa la visualización de iconos en las pestañas de los Ficheros en la interfaz de usuario.
   "workbench.editor.tabActionCloseVisibility": true,
-  // Esta configuración desactiva o activa la visibilidad del botón de cierre en las pestañas de los ficheros en la interfaz de usuario.
+  // Esta configuración desactiva o activa la visibilidad del botón de cierre en las pestañas de los Ficheros en la interfaz de usuario.
   "workbench.editor.showTabs": "multiple",
-  // Esta configuración configura la visualización de las pestañas de ficheros como ninguna, multiple, single.
+  // Esta configuración configura la visualización de las pestañas de Ficheros como ninguna, multiple, single.
   // Configuración del margen
   "editor.lineNumbers": "on",
   // Esta configuración desactiva o activa la visualización de números de línea en el editor de código.
@@ -197,13 +193,13 @@
   "terminal.integrated.lineHeight": 1.5,
   // Esta configuración establece la altura de línea del terminal integrado en 1.5.
   "files.autoSave": "afterDelay",
-  // Esta configuración configura el guardado automático de ficheros después de un retraso.
+  // Esta configuración configura el guardado automático de Ficheros después de un retraso.
   "editor.defaultFormatter": "aaron-bond.better-comments",
   // Esta configuración establece el formateador predeterminado del editor de código como "aaron-bond.better-comments".
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
   // Esta configuración habilita el uso de un conjunto independiente de colores para cada tipo de paréntesis en el editor de código.
   "editor.formatOnSave": true,
-  // Esta configuración activa el formateo automático al guardar el fichero en el editor de código.
+  // Esta configuración activa el formateo automático al guardar el Fichero en el editor de código.
   "editor.guides.highlightActiveIndentation": true,
   // Esta configuración desactiva el resaltado de la indentación activa en el editor de código.
   "editor.renderControlCharacters": false,
@@ -233,9 +229,47 @@
   },
   "[dockerfile]": {
     "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+    // "editor.defaultFormatter": "ms-azuretools.vscode-docker"
   },
+  // Activa el formato automático de archivos con ESLint.
+  "eslint.format.enable": true,
+  // Configura las etiquetas personalizadas en los editores de código
+  // para que muestren el nombre del archivo y la extensión con un icono musical.
+  "workbench.editor.customLabels.patterns": {
+    "**/src/**": "${filename}.${extname} 🎶",
+    "**/lib/**": "${filename}.${extname} 🎸",
+    "**/config/**": "${filename}.${extname} 𝄞"
+  },
+  // Establece el tema de iconos del espacio de trabajo en "symbols".
+  "workbench.iconTheme": "symbols",
+  // Habilita las variaciones de fuente en el editor.
+  "editor.fontVariations": true, // default: false
+  // Configura el peso de fuente del editor a "negrita".
+  "editor.fontWeight": "bold", // default: normal
+  // Configura el peso de fuente del terminal integrado a "negrita".
+  "terminal.integrated.fontWeight": "bold", // default: normal
+  // Configura el peso de fuente en negrita para el terminal integrado.
+  "terminal.integrated.fontWeightBold": "bold",
+  // Activa el estilo de fuente en cursiva para los mensajes de error.
+  "errorLens.fontStyleItalic": true, // default: false
+  // Configura el peso de fuente para los mensajes de error a "negrita".
+  "errorLens.fontWeight": "bold",
+  // Establece el tamaño de fuente del terminal integrado en 20 píxeles.
   "terminal.integrated.fontSize": 20,
-  "terminal.integrated.stickyScroll.enabled": true,
-  // Esta configuración desactiva la representación de caracteres de control en el editor de código.
+  "[cpp]": {
+    // Comentado: Establece el formateador predeterminado para archivos C++.
+    // "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  // Configuración para el depurador de Python (debugpy) para no filtrar solo el código del usuario.
+  "debugpy.debugJustMyCode": false,
+  // Establece la ruta del intérprete de Python predeterminado.
+  "python.defaultInterpreterPath": "/bin/python3.12",
+  // Configura el tema de color del espacio de trabajo a "Bluloco Dark Italic".
+  "workbench.colorTheme": "Bluloco Dark Italic",
+  // Establece la opacidad del efecto de cristal en Linux al 90%.
+  "glassit-linux.opacity": 90
+  // Enlaces para iconos musicales:
+  // https://www.alt-codes.net/music_note_alt_codes.php
+  // https://www.toolcalculator.com/music-symbols.html
 }
 ```
