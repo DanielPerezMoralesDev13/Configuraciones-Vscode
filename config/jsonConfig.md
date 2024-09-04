@@ -267,6 +267,7 @@
   // Configura el tema de color del espacio de trabajo a "Bluloco Dark Italic".
   "workbench.colorTheme": "Bluloco Dark Italic",
   // Establece la opacidad del efecto de cristal en Linux al 90%.
+  // Dependencia: sudo apt install -y wmctrl x11-utils bash
   "glassit-linux.opacity": 90
   // Enlaces para iconos musicales:
   // https://www.alt-codes.net/music_note_alt_codes.php
